@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="eebde280-1e84-45b9-9a09-cbfb9f476cd8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/capter01/StackSortUseOneStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/capter01/StackSortUseOneStack.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +38,12 @@
       <recent name="E:\Program\NKProgram\src\basic" />
     </key>
   </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -51,9 +56,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GetMaxWIndow">
+  <component name="RunManager" selected="Application.GetNearLessNoRepeat">
     <configuration name="GetMaxWIndow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zuo_book.capter01.GetMaxWIndow" />
+      <module name="NKProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zuo_book.capter01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetNearLessNoRepeat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zuo_book.capter01.GetNearLessNoRepeat" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
@@ -80,6 +98,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GetNearLessNoRepeat" />
         <item itemvalue="Application.GetMaxWIndow" />
         <item itemvalue="Application.StackSortUseOneStack" />
       </list>
@@ -97,6 +116,7 @@
       <updated>1573004222615</updated>
       <workItem from="1573004225402" duration="3095000" />
       <workItem from="1573179200749" duration="3768000" />
+      <workItem from="1573267249897" duration="2628000" />
     </task>
     <servers />
   </component>
@@ -108,7 +128,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
