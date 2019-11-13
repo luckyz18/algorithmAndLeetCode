@@ -35,8 +35,7 @@ public class GetVisibleNum {
         while (index != maxIndex) {
             // 如果不满足单调栈的性质  就弹出栈
             while (arr[index] > stack.peek().value) {
-                Record pop = stack.pop();
-                int popTime = pop.time;
+                int popTime = stack.pop().time;
                 res += 2 * popTime + getInternelTime(popTime);
             }
             //入栈
@@ -68,7 +67,8 @@ public class GetVisibleNum {
     }
 
     private static int getInternelTime(int k) {
-        return k == 1 ? 0 : k * (k - 1) / 2;
+        int i = (k == 1 ? 0 : k * (k - 1) / 2);
+        return i;
     }
 
     private static int getNextIndex(int index, int length) {

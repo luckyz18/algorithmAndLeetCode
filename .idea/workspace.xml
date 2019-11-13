@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="eebde280-1e84-45b9-9a09-cbfb9f476cd8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/capter01/MaxSubMatric.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/capter01/MaxSubMatric.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/capter01/GetVisibleNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/capter01/GetVisibleNum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zuo_book/capter01/GetVisibleNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zuo_book/capter01/GetVisibleNum.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -146,7 +147,7 @@
       <workItem from="1573004225402" duration="3095000" />
       <workItem from="1573179200749" duration="3768000" />
       <workItem from="1573267249897" duration="5251000" />
-      <workItem from="1573609490232" duration="3943000" />
+      <workItem from="1573609490232" duration="5912000" />
     </task>
     <servers />
   </component>
@@ -172,17 +173,12 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/zuo_book/capter01/GetVisibleNum.java</url>
           <line>78</line>
-          <option name="timeStamp" value="14" />
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/zuo_book/capter01/GetVisibleNum.java</url>
-          <line>66</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/zuo_book/capter01/GetVisibleNum.java</url>
-          <line>51</line>
-          <option name="timeStamp" value="16" />
+          <line>50</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
