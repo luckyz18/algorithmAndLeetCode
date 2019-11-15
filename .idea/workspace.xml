@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="eebde280-1e84-45b9-9a09-cbfb9f476cd8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/capter01/GetVisibleNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/capter01/GetVisibleNum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zuo_book/capter01/GetVisibleNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zuo_book/capter01/GetVisibleNum.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +56,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GetVisibleNum">
+  <component name="RunManager" selected="Application.Yuesefu">
     <configuration name="GetMaxWIndow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zuo_book.capter01.GetMaxWIndow" />
       <module name="NKProgram" />
@@ -111,8 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackSortUseOneStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zuo_book.capter01.StackSortUseOneStack" />
+    <configuration name="Yuesefu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zuo_book.capter01.Yuesefu" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
@@ -126,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Yuesefu" />
         <item itemvalue="Application.GetVisibleNum" />
         <item itemvalue="Application.MaxSubMatric" />
         <item itemvalue="Application.GetNearLessNoRepeat" />
         <item itemvalue="Application.GetMaxWIndow" />
-        <item itemvalue="Application.StackSortUseOneStack" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +145,8 @@
       <workItem from="1573004225402" duration="3095000" />
       <workItem from="1573179200749" duration="3768000" />
       <workItem from="1573267249897" duration="5251000" />
-      <workItem from="1573609490232" duration="5912000" />
+      <workItem from="1573609490232" duration="5974000" />
+      <workItem from="1573780452352" duration="992000" />
     </task>
     <servers />
   </component>
@@ -171,14 +170,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/zuo_book/capter01/GetVisibleNum.java</url>
-          <line>78</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/zuo_book/capter01/GetVisibleNum.java</url>
-          <line>50</line>
-          <option name="timeStamp" value="24" />
+          <url>file://$PROJECT_DIR$/src/zuo_book/capter01/Yuesefu.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
