@@ -31,6 +31,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -56,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReverseKNode">
+  <component name="RunManager" selected="Application.RemoveRepNode">
     <configuration name="GetInterSecNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zuo_book.capter02.GetInterSecNode" />
       <module name="NKProgram" />
@@ -83,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxSubMatric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zuo_book.capter01.MaxSubMatric" />
+    <configuration name="RemoveRepNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zuo_book.capter02.RemoveRepNode" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zuo_book.capter01.*" />
+          <option name="PATTERN" value="zuo_book.capter02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveRepNode" />
         <item itemvalue="Application.ReverseKNode" />
         <item itemvalue="Application.GetInterSecNode" />
         <item itemvalue="Application.Yuesefu" />
         <item itemvalue="Application.GetVisibleNum" />
-        <item itemvalue="Application.MaxSubMatric" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +148,8 @@
       <workItem from="1573267249897" duration="5251000" />
       <workItem from="1573609490232" duration="5974000" />
       <workItem from="1573780452352" duration="10540000" />
-      <workItem from="1574043097630" duration="10585000" />
+      <workItem from="1574043097630" duration="11438000" />
+      <workItem from="1574064816468" duration="1932000" />
     </task>
     <servers />
   </component>
@@ -171,21 +173,16 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/zuo_book/capter02/ReverseKNode.java</url>
-          <line>112</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/zuo_book/capter02/ReverseKNode.java</url>
-          <line>113</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/zuo_book/capter02/ReverseKNode.java</url>
-          <line>83</line>
-          <option name="timeStamp" value="14" />
+          <url>file://$PROJECT_DIR$/src/zuo_book/capter02/RemoveRepNode.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="newHead" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
