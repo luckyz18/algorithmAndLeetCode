@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eebde280-1e84-45b9-9a09-cbfb9f476cd8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="eebde280-1e84-45b9-9a09-cbfb9f476cd8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RemoveRepNode">
+  <component name="RunManager" selected="Application.RemoveGavenValue">
     <configuration name="GetInterSecNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zuo_book.capter02.GetInterSecNode" />
       <module name="NKProgram" />
@@ -71,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetVisibleNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zuo_book.capter01.GetVisibleNum" />
+    <configuration name="RemoveGavenValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zuo_book.capter02.RemoveGavenValue" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zuo_book.capter01.*" />
+          <option name="PATTERN" value="zuo_book.capter02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveGavenValue" />
         <item itemvalue="Application.RemoveRepNode" />
         <item itemvalue="Application.ReverseKNode" />
         <item itemvalue="Application.GetInterSecNode" />
         <item itemvalue="Application.Yuesefu" />
-        <item itemvalue="Application.GetVisibleNum" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +147,7 @@
       <workItem from="1573609490232" duration="5974000" />
       <workItem from="1573780452352" duration="10540000" />
       <workItem from="1574043097630" duration="11438000" />
-      <workItem from="1574064816468" duration="1932000" />
+      <workItem from="1574064816468" duration="2722000" />
     </task>
     <servers />
   </component>
@@ -173,9 +171,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/zuo_book/capter02/RemoveRepNode.java</url>
-          <line>68</line>
-          <option name="timeStamp" value="3" />
+          <url>file://$PROJECT_DIR$/src/zuo_book/capter02/RemoveGavenValue.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
