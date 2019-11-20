@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="eebde280-1e84-45b9-9a09-cbfb9f476cd8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zuo_book/capter02/MergeTwoSortedLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zuo_book/capter02/MergeTwoSortedLinkedList.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +59,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MergeTwoSortedLinkedList">
+  <component name="RunManager" selected="Application.MergeLeftAndRight">
     <configuration name="ConvertBST2DoubleList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zuo_book.capter02.ConvertBST2DoubleList" />
       <module name="NKProgram" />
@@ -85,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeTwoSortedLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zuo_book.capter02.MergeTwoSortedLinkedList" />
+    <configuration name="MergeLeftAndRight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zuo_book.capter02.MergeLeftAndRight" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
@@ -98,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveGavenValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zuo_book.capter02.RemoveGavenValue" />
+    <configuration name="MergeTwoSortedLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zuo_book.capter02.MergeTwoSortedLinkedList" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
@@ -126,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeLeftAndRight" />
         <item itemvalue="Application.MergeTwoSortedLinkedList" />
         <item itemvalue="Application.InsertInSortCircleLinkedlist" />
         <item itemvalue="Application.SelectSortInLinkedList" />
         <item itemvalue="Application.ConvertBST2DoubleList" />
-        <item itemvalue="Application.RemoveGavenValue" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +153,7 @@
       <workItem from="1574043097630" duration="11438000" />
       <workItem from="1574064816468" duration="5795000" />
       <workItem from="1574164540686" duration="7028000" />
-      <workItem from="1574249542649" duration="4904000" />
+      <workItem from="1574249542649" duration="6504000" />
     </task>
     <servers />
   </component>
@@ -176,14 +177,14 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/zuo_book/capter02/MergeTwoSortedLinkedList.java</url>
-          <line>54</line>
-          <option name="timeStamp" value="5" />
+          <url>file://$PROJECT_DIR$/src/zuo_book/capter02/MergeLeftAndRight.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/zuo_book/capter02/MergeTwoSortedLinkedList.java</url>
-          <line>55</line>
-          <option name="timeStamp" value="6" />
+          <url>file://$PROJECT_DIR$/src/zuo_book/capter02/MergeLeftAndRight.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
