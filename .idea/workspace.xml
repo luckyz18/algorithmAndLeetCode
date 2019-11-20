@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eebde280-1e84-45b9-9a09-cbfb9f476cd8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="eebde280-1e84-45b9-9a09-cbfb9f476cd8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +149,7 @@
       <workItem from="1574043097630" duration="11438000" />
       <workItem from="1574064816468" duration="5795000" />
       <workItem from="1574164540686" duration="7028000" />
-      <workItem from="1574249542649" duration="1801000" />
+      <workItem from="1574249542649" duration="2052000" />
     </task>
     <servers />
   </component>
@@ -172,20 +170,6 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/zuo_book/capter02/InsertInSortCircleLinkedlist.java</url>
-          <line>48</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/zuo_book/capter02/InsertInSortCircleLinkedlist.java</url>
-          <line>49</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="newHead" />
