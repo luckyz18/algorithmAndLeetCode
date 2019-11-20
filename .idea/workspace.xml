@@ -57,9 +57,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SelectSortInLinkedList">
+  <component name="RunManager" selected="Application.InsertInSortCircleLinkedlist">
     <configuration name="ConvertBST2DoubleList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zuo_book.capter02.ConvertBST2DoubleList" />
+      <module name="NKProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zuo_book.capter02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertInSortCircleLinkedlist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zuo_book.capter02.InsertInSortCircleLinkedlist" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
@@ -97,19 +110,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseKNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zuo_book.capter02.ReverseKNode" />
-      <module name="NKProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="zuo_book.capter02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SelectSortInLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zuo_book.capter02.SelectSortInLinkedList" />
       <module name="NKProgram" />
@@ -125,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InsertInSortCircleLinkedlist" />
         <item itemvalue="Application.SelectSortInLinkedList" />
         <item itemvalue="Application.ConvertBST2DoubleList" />
         <item itemvalue="Application.RemoveGavenValue" />
         <item itemvalue="Application.RemoveRepNode" />
-        <item itemvalue="Application.ReverseKNode" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +150,8 @@
       <workItem from="1573780452352" duration="10540000" />
       <workItem from="1574043097630" duration="11438000" />
       <workItem from="1574064816468" duration="5795000" />
-      <workItem from="1574164540686" duration="5738000" />
+      <workItem from="1574164540686" duration="7028000" />
+      <workItem from="1574249542649" duration="1801000" />
     </task>
     <servers />
   </component>
@@ -174,14 +175,14 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/zuo_book/capter02/SelectSortInLinkedList.java</url>
-          <line>70</line>
-          <option name="timeStamp" value="5" />
+          <url>file://$PROJECT_DIR$/src/zuo_book/capter02/InsertInSortCircleLinkedlist.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/zuo_book/capter02/SelectSortInLinkedList.java</url>
-          <line>41</line>
-          <option name="timeStamp" value="6" />
+          <url>file://$PROJECT_DIR$/src/zuo_book/capter02/InsertInSortCircleLinkedlist.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
