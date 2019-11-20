@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eebde280-1e84-45b9-9a09-cbfb9f476cd8" name="Default Changelist" comment="" />
+    <list default="true" id="eebde280-1e84-45b9-9a09-cbfb9f476cd8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +28,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../LeetCode/leetcode" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -55,7 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InsertInSortCircleLinkedlist">
+  <component name="RunManager" selected="Application.MergeTwoSortedLinkedList">
     <configuration name="ConvertBST2DoubleList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zuo_book.capter02.ConvertBST2DoubleList" />
       <module name="NKProgram" />
@@ -82,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveGavenValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zuo_book.capter02.RemoveGavenValue" />
+    <configuration name="MergeTwoSortedLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zuo_book.capter02.MergeTwoSortedLinkedList" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveRepNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zuo_book.capter02.RemoveRepNode" />
+    <configuration name="RemoveGavenValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zuo_book.capter02.RemoveGavenValue" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
@@ -123,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeTwoSortedLinkedList" />
         <item itemvalue="Application.InsertInSortCircleLinkedlist" />
         <item itemvalue="Application.SelectSortInLinkedList" />
         <item itemvalue="Application.ConvertBST2DoubleList" />
         <item itemvalue="Application.RemoveGavenValue" />
-        <item itemvalue="Application.RemoveRepNode" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +152,7 @@
       <workItem from="1574043097630" duration="11438000" />
       <workItem from="1574064816468" duration="5795000" />
       <workItem from="1574164540686" duration="7028000" />
-      <workItem from="1574249542649" duration="2052000" />
+      <workItem from="1574249542649" duration="4904000" />
     </task>
     <servers />
   </component>
@@ -170,6 +173,20 @@
     </option>
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/zuo_book/capter02/MergeTwoSortedLinkedList.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/zuo_book/capter02/MergeTwoSortedLinkedList.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="newHead" />
