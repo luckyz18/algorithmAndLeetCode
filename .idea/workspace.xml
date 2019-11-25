@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="eebde280-1e84-45b9-9a09-cbfb9f476cd8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/capter02/MergeLeftAndRight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/capter02/MergeLeftAndRight.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/capter02/ReverseKNode$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/capter02/ReverseKNode$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/capter02/ReverseKNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/capter02/ReverseKNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zuo_book/capter02/ReverseKNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zuo_book/capter02/ReverseKNode.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TraverseBT">
+  <component name="RunManager" selected="Application.SerialAndDeserialBT">
     <configuration name="InsertInSortCircleLinkedlist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zuo_book.capter02.InsertInSortCircleLinkedlist" />
       <module name="NKProgram" />
@@ -102,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectSortInLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zuo_book.capter02.SelectSortInLinkedList" />
+    <configuration name="SerialAndDeserialBT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zuo_book.chapter03.SerialAndDeserialBT" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zuo_book.capter02.*" />
+          <option name="PATTERN" value="zuo_book.chapter03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SerialAndDeserialBT" />
         <item itemvalue="Application.TraverseBT" />
         <item itemvalue="Application.MergeLeftAndRight" />
         <item itemvalue="Application.MergeTwoSortedLinkedList" />
         <item itemvalue="Application.InsertInSortCircleLinkedlist" />
-        <item itemvalue="Application.SelectSortInLinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +153,9 @@
       <workItem from="1574064816468" duration="5795000" />
       <workItem from="1574164540686" duration="7028000" />
       <workItem from="1574249542649" duration="10228000" />
-      <workItem from="1574344685087" duration="2204000" />
+      <workItem from="1574344685087" duration="2289000" />
+      <workItem from="1574382633233" duration="1209000" />
+      <workItem from="1574647940324" duration="6164000" />
     </task>
     <servers />
   </component>
@@ -186,14 +184,24 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/zuo_book/chapter03/TraverseBT.java</url>
-          <line>103</line>
-          <option name="timeStamp" value="2" />
+          <url>file://$PROJECT_DIR$/src/zuo_book/chapter03/SerialAndDeserialBT.java</url>
+          <line>119</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/zuo_book/chapter03/TraverseBT.java</url>
-          <line>93</line>
-          <option name="timeStamp" value="3" />
+          <url>file://$PROJECT_DIR$/src/zuo_book/chapter03/SerialAndDeserialBT.java</url>
+          <line>142</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/zuo_book/chapter03/SerialAndDeserialBT.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/zuo_book/chapter03/SerialAndDeserialBT.java</url>
+          <line>123</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
