@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="eebde280-1e84-45b9-9a09-cbfb9f476cd8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/chapter08/MaxLenInSubArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/chapter08/MaxLenInSubArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/chapter03/MaxLen4kInBT.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/chapter03/MaxLen4kInBT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zuo_book/chapter03/MaxLen4kInBT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zuo_book/chapter03/MaxLen4kInBT.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -157,7 +158,7 @@
       <workItem from="1574344685087" duration="2289000" />
       <workItem from="1574382633233" duration="1209000" />
       <workItem from="1574647940324" duration="19087000" />
-      <workItem from="1574730028765" duration="304000" />
+      <workItem from="1574730028765" duration="1375000" />
     </task>
     <servers />
   </component>
@@ -184,21 +185,6 @@
           <url>file://$PROJECT_DIR$/src/zuo_book/chapter03/TraverseBT.java</url>
           <line>61</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/zuo_book/chapter03/MaxLen4kInBT.java</url>
-          <line>49</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/zuo_book/chapter03/MaxLen4kInBT.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/zuo_book/chapter03/MaxLen4kInBT.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

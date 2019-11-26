@@ -43,11 +43,18 @@ public class MaxLen4kInBT {
     }
 
     public static void main(String[] args) {
-        Node head = new Node(1);
-        head.left = new Node(2);
-        head.right = new Node(1);
-        int maxLen = getMaxLen(head, 4);
-        System.out.println();
+        Node head = new Node(-3);
+        head.left = new Node(3);
+        head.right = new Node(-9);
+        head.left.left = new Node(1);
+        head.left.right = new Node(0);
+        head.right.left = new Node(2);
+        head.right.right = new Node(1);
+        head.left.right.left = new Node(1);
+        head.left.right.right = new Node(6);
+
+        int maxLen = getMaxLen(head, -9);
+        System.out.println(maxLen);
     }
 
 }
