@@ -1,4 +1,4 @@
-package zuo_book.chapter03;
+package zuo_book.chapter03.BST;
 
 /**
  * 在二叉树中找最大的搜索二叉树
