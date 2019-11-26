@@ -62,47 +62,45 @@ public class PrintByLevelAndZigzag {
         Node nLast = null;
         boolean fromL2R = true;
         Node poll = null;
-        printLevelInfo(level++,fromL2R);
+        printLevelInfo(level++, fromL2R);
         while (!deque.isEmpty()) {
             if (fromL2R) {
                 poll = deque.pollFirst();
-                if (fromL2R) {
-                    if (poll.left != null) {
-                        deque.addLast(poll.left);
-                        nLast = nLast == null ? poll.left: nLast;
-                    }
-                    if (poll.right != null) {
-                        deque.addLast(poll.right);
-                        nLast = nLast == null ? poll.right: nLast;
-                    }
+                if (poll.left != null) {
+                    deque.addLast(poll.left);
+                    nLast = nLast == null ? poll.left : nLast;
+                }
+                if (poll.right != null) {
+                    deque.addLast(poll.right);
+                    nLast = nLast == null ? poll.right : nLast;
                 }
             } else {
                 poll = deque.pollLast();
-                if (poll.right != null){
+                if (poll.right != null) {
                     deque.addFirst(poll.right);
-                    nLast = nLast== null ? poll.right : nLast;
+                    nLast = nLast == null ? poll.right : nLast;
                 }
-                if (poll.left != null){
+                if (poll.left != null) {
                     deque.addFirst(poll.left);
-                    nLast = nLast== null ? poll.left : nLast;
+                    nLast = nLast == null ? poll.left : nLast;
                 }
             }
-            System.out.print(poll.value+" ");
+            System.out.print(poll.value + " ");
 
-            if (poll == last && !deque.isEmpty()){
+            if (poll == last && !deque.isEmpty()) {
                 fromL2R = !fromL2R;
                 last = nLast;
                 nLast = null;
                 System.out.println();
-                printLevelInfo(level++,fromL2R);
+                printLevelInfo(level++, fromL2R);
             }
         }
         System.out.println();
     }
 
     private static void printLevelInfo(int level, boolean fromL2R) {
-        System.out.print("level "+level+" from ");
-        System.out.print(fromL2R ? "left to right: ":"right to left: ");
+        System.out.print("level " + level + " from ");
+        System.out.print(fromL2R ? "left to right: " : "right to left: ");
     }
 
     public static void main(String[] args) {
