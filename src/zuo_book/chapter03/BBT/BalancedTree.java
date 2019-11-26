@@ -47,7 +47,6 @@ public class BalancedTree {
         head.left = new Node(2);
         head.right = new Node(3);
         head.right.left = new Node(4);
-        //head.right.left.right = new Node(5);
         System.out.println(isisBalanced(head));
     }
 
