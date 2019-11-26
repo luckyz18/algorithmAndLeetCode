@@ -51,6 +51,7 @@ public class PrintByLevelAndZigzag {
         }
     }
 
+    //双端队列
     public static void printByZigZag(Node head) {
         if (head == null) {
             return;
