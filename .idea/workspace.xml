@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eebde280-1e84-45b9-9a09-cbfb9f476cd8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NKProgram/basic/class_04/Code_07_IsBSTAndCBT.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NKProgram/basic/class_04/Code_07_IsBSTAndCBT.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/chapter03/BT/Mirrors$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/chapter03/BT/Mirrors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/class_04/Code_07_IsBSTAndCBT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/class_04/Code_07_IsBSTAndCBT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zuo_book/chapter03/BST/PostArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zuo_book/chapter03/BST/PostArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zuo_book/chapter03/BT/Mirrors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zuo_book/chapter03/BT/Morris.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +59,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IsCBTAndBST">
+  <component name="RunManager" selected="Application.BalancedBST">
+    <configuration name="BalancedBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zuo_book.chapter03.BST.BalancedBST" />
+      <module name="NKProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zuo_book.chapter03.BST.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BalancedTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zuo_book.chapter03.BBT.BalancedTree" />
       <module name="NKProgram" />
@@ -117,26 +125,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T1ContainsT2TopoSame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zuo_book.chapter03.BT.T1ContainsT2TopoSame" />
-      <module name="NKProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="zuo_book.chapter03.BT.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BalancedBST" />
         <item itemvalue="Application.IsCBTAndBST" />
         <item itemvalue="Application.Code_07_IsBSTAndCBT" />
         <item itemvalue="Application.PostArray" />
         <item itemvalue="Application.BalancedTree" />
-        <item itemvalue="Application.T1ContainsT2TopoSame" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +158,7 @@
       <workItem from="1574382633233" duration="1209000" />
       <workItem from="1574647940324" duration="19087000" />
       <workItem from="1574730028765" duration="28036000" />
-      <workItem from="1574816335528" duration="11721000" />
+      <workItem from="1574816335528" duration="12777000" />
     </task>
     <servers />
   </component>
@@ -195,6 +190,11 @@
           <url>file://$PROJECT_DIR$/src/basic/class_04/Code_07_IsBSTAndCBT.java</url>
           <line>134</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/zuo_book/chapter03/BST/BalancedBST.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

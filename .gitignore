@@ -11,3 +11,6 @@ logs
 out/*
 build_test.sh
 **/target
+
+output.tar.gz
+
