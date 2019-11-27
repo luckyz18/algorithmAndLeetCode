@@ -1,8 +1,6 @@
 package zuo_book.chapter03.BST;
 
 
-import java.util.Stack;
-
 public class PostArray {
     static class Node {
         int value;

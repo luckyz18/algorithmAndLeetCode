@@ -1,13 +1,11 @@
 package zuo_book.chapter03.BT;
 
-import sun.applet.Main;
-
 /**
  * 遍历二叉树的神级方法
  * 实现时间复杂度是O(N)
  * 空间复杂度是O(1)
  */
-public class Mirrors {
+public class Morris {
     static class Node {
         int value;
         Node left;
@@ -18,8 +16,8 @@ public class Mirrors {
         }
     }
 
-    //1：获取mirror 序列
-    public static void mirrors(Node root) {
+    //1：获取morris 序列
+    public static void morris(Node root) {
         if (root == null) {
             return;
         }
@@ -53,7 +51,7 @@ public class Mirrors {
         System.out.println("-----");
     }
 
-    // 2. 在mirror 序列的基础上  先序遍历  中序遍历
+    // 2. 在morris 序列的基础上  先序遍历  中序遍历
     // 2.1 先序：访问两次的节点第一次访问时打印；访问一次的节点直接打印
     public static void mirrorByPre(Node root) {
         if (root == null) {

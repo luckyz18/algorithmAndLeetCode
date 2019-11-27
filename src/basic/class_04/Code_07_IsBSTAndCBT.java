@@ -130,9 +130,9 @@ public class Code_07_IsBSTAndCBT {
 		head.left.right = new Node(3);
 		head.right.left = new Node(5);
 
-		printTree(head);
-		System.out.println(isBST(head));
-		System.out.println(isCBT(head));
+		//printTree(head);
+		//System.out.println(isBST(head));
+		isCBT(head);
 
 	}
 }
