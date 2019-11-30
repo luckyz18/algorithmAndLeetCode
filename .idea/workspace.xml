@@ -158,7 +158,7 @@
       <workItem from="1574647940324" duration="19087000" />
       <workItem from="1574730028765" duration="28036000" />
       <workItem from="1574816335528" duration="28234000" />
-      <workItem from="1575011036715" duration="3972000" />
+      <workItem from="1575011036715" duration="9040000" />
     </task>
     <servers />
   </component>
@@ -190,31 +190,6 @@
           <url>file://$PROJECT_DIR$/src/basic/class_04/Code_07_IsBSTAndCBT.java</url>
           <line>134</line>
           <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/zuo_book/chapter03/BT/PostArr.java</url>
-          <line>80</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/zuo_book/chapter03/BT/PostArr.java</url>
-          <line>81</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/zuo_book/chapter03/BT/PostArr.java</url>
-          <line>64</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/zuo_book/chapter03/BT/PostArr.java</url>
-          <line>58</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/zuo_book/chapter03/BT/PostArr.java</url>
-          <line>68</line>
-          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
