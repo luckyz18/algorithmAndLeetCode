@@ -58,13 +58,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PostArr">
-    <configuration name="BalancedBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zuo_book.chapter03.BST.BalancedBST" />
+  <component name="RunManager" selected="Application.code_11">
+    <configuration name="code_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_05" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zuo_book.chapter03.BST.*" />
+          <option name="PATTERN" value="jianzhi_offer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsCBTAndBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zuo_book.chapter03.CBT.IsCBTAndBST" />
+    <configuration name="code_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_06" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zuo_book.chapter03.CBT.*" />
+          <option name="PATTERN" value="jianzhi_offer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zuo_book.chapter03.BT.MaxDistance" />
+    <configuration name="code_07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_07" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zuo_book.chapter03.BT.*" />
+          <option name="PATTERN" value="jianzhi_offer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NextNodeInBT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zuo_book.chapter03.BT.NextNodeInBT" />
+    <configuration name="code_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_08" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zuo_book.chapter03.BT.*" />
+          <option name="PATTERN" value="jianzhi_offer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PostArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zuo_book.chapter03.BT.PostArr" />
+    <configuration name="code_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_11" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zuo_book.chapter03.BT.*" />
+          <option name="PATTERN" value="jianzhi_offer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PostArr" />
-        <item itemvalue="Application.MaxDistance" />
-        <item itemvalue="Application.NextNodeInBT" />
-        <item itemvalue="Application.BalancedBST" />
-        <item itemvalue="Application.IsCBTAndBST" />
+        <item itemvalue="Application.code_11" />
+        <item itemvalue="Application.code_08" />
+        <item itemvalue="Application.code_07" />
+        <item itemvalue="Application.code_06" />
+        <item itemvalue="Application.code_05" />
       </list>
     </recent_temporary>
   </component>
@@ -159,6 +159,8 @@
       <workItem from="1574730028765" duration="28036000" />
       <workItem from="1574816335528" duration="28234000" />
       <workItem from="1575011036715" duration="9040000" />
+      <workItem from="1575077445918" duration="3256000" />
+      <workItem from="1575251363294" duration="27641000" />
     </task>
     <servers />
   </component>
@@ -190,6 +192,11 @@
           <url>file://$PROJECT_DIR$/src/basic/class_04/Code_07_IsBSTAndCBT.java</url>
           <line>134</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianzhi_offer/code_05.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
