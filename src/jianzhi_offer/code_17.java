@@ -59,41 +59,34 @@ public class code_17 {
 
 
 
-    //2.
-    public static void printToMaxOfNDigits2(int n) {
-        if(n <= 0) {
+    //2. ???
+    public void print1ToMaxOfNDigits2(int n) {
+        if (n <= 0)
             return;
-        }
-        char[] nums = new char[n];
-        recursiveProductNum(0, n, nums);
+        char[] number = new char[n];
+        print1ToMaxOfNDigits2(number, 0);
     }
 
-    public static void recursiveProductNum(int index, int length, char[] nums) {
-        if(index == length) {
-            printNum2(nums);
+    private void print1ToMaxOfNDigits2(char[] number, int digit) {
+        if (digit == number.length) {
+            printNumber(number);
             return;
         }
-        for(char i = '0'; i <= '9'; i++){
-            nums[index] = i;
-            recursiveProductNum(index + 1, length, nums);
+        for (int i = 0; i < 10; i++) {
+            number[digit] = (char) (i + '0');
+            print1ToMaxOfNDigits2(number, digit + 1);
         }
     }
-    public static void printNum2(char[] nums) {
+
+    private void printNumber(char[] number) {
         int index = 0;
-        for(; index < nums.length; index++) {
-            if(nums[index] != '0'){
-                break;
-            }
-        }
-        for(; index < nums.length; index++) {
-            System.out.print(nums[index]);
-        }
+        while (index < number.length && number[index] == '0')
+            index++;
+        while (index < number.length)
+            System.out.print(number[index++]);
         System.out.println();
     }
-
-
-
     public static void main(String[] args) {
-        new code_17().print1ToMaxOfNDigits(2);
+        new code_17().print1ToMaxOfNDigits2(2);
     }
 }
