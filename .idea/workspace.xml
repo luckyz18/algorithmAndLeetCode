@@ -58,59 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.num_22">
-    <configuration name="code_18_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_18_2" />
-      <module name="NKProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jianzhi_offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="code_19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_19" />
-      <module name="NKProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jianzhi_offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="num_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.num_20" />
-      <module name="NKProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jianzhi_offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="num_21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.num_21" />
-      <module name="NKProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jianzhi_offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.num_27">
     <configuration name="num_22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jianzhi_offer.num_22" />
       <module name="NKProgram" />
@@ -124,13 +72,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="num_24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.num_24" />
+      <module name="NKProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jianzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="num_25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.num_25" />
+      <module name="NKProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jianzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="num_26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.num_26" />
+      <module name="NKProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jianzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="num_27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.num_27" />
+      <module name="NKProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jianzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.num_27" />
+        <item itemvalue="Application.num_26" />
+        <item itemvalue="Application.num_25" />
+        <item itemvalue="Application.num_24" />
         <item itemvalue="Application.num_22" />
-        <item itemvalue="Application.num_21" />
-        <item itemvalue="Application.num_20" />
-        <item itemvalue="Application.code_19" />
-        <item itemvalue="Application.code_18_2" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +166,8 @@
       <workItem from="1575551754304" duration="1436000" />
       <workItem from="1575612832084" duration="885000" />
       <workItem from="1575719904128" duration="5599000" />
-      <workItem from="1575768705286" duration="4546000" />
+      <workItem from="1575768705286" duration="5268000" />
+      <workItem from="1575796646951" duration="8606000" />
     </task>
     <servers />
   </component>
