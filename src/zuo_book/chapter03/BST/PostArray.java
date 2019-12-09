@@ -35,6 +35,7 @@ public class PostArray {
                 less = i;
             }
         }
+        // !!! 保证了二叉搜索树的有序
         if (less != more - 1) {
             return false;
         }

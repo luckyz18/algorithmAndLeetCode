@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="eebde280-1e84-45b9-9a09-cbfb9f476cd8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zuo_book/chapter03/BST/PostArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zuo_book/chapter03/BST/PostArray.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,9 +59,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.num_29">
-    <configuration name="num_25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.num_25" />
+  <component name="RunManager" selected="Application.num_35">
+    <configuration name="num_32_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.num_32_2" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
@@ -72,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="num_26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.num_26" />
+    <configuration name="num_32_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.num_32_3" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
@@ -85,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="num_27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.num_27" />
+    <configuration name="num_33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.num_33" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
@@ -98,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="num_28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.num_28" />
+    <configuration name="num_34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.num_34" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
@@ -111,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="num_29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.num_29" />
+    <configuration name="num_35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.num_35" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
@@ -126,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.num_29" />
-        <item itemvalue="Application.num_28" />
-        <item itemvalue="Application.num_27" />
-        <item itemvalue="Application.num_26" />
-        <item itemvalue="Application.num_25" />
+        <item itemvalue="Application.num_35" />
+        <item itemvalue="Application.num_34" />
+        <item itemvalue="Application.num_33" />
+        <item itemvalue="Application.num_32_3" />
+        <item itemvalue="Application.num_32_2" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +169,7 @@
       <workItem from="1575719904128" duration="5599000" />
       <workItem from="1575768705286" duration="5268000" />
       <workItem from="1575796646951" duration="10173000" />
-      <workItem from="1575872033816" duration="3688000" />
+      <workItem from="1575872033816" duration="23818000" />
     </task>
     <servers />
   </component>
@@ -195,6 +196,31 @@
           <url>file://$PROJECT_DIR$/src/jianzhi_offer/code_19.java</url>
           <line>86</line>
           <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianzhi_offer/num_34.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianzhi_offer/num_34.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianzhi_offer/num_35.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianzhi_offer/num_35.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianzhi_offer/num_35.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="61" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
