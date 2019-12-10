@@ -6,7 +6,7 @@ import java.util.*;
 /**
  * 按照之字形打印二叉树
  */
-public class num_32_3 {
+public class code_32_3 {
     public static class TreeNode {
         int val = 0;
         TreeNode left = null;

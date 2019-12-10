@@ -3,7 +3,24 @@
   <component name="ChangeListManager">
     <list default="true" id="eebde280-1e84-45b9-9a09-cbfb9f476cd8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zuo_book/chapter03/BST/PostArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zuo_book/chapter03/BST/PostArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/num_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/num_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/num_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/num_23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/num_24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/num_25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/num_26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/num_27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/num_28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/num_29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_29.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/num_30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_30.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/num_31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_31.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/num_32_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_32_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/num_32_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_32_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/num_32_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_32_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/num_33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_33.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/num_34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_34.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/num_35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_35.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,9 +76,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.num_35">
-    <configuration name="num_32_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.num_32_2" />
+  <component name="RunManager" selected="Application.code_37">
+    <configuration name="code_32_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_32_3" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
@@ -73,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="num_32_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.num_32_3" />
+    <configuration name="code_33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_33" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="num_33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.num_33" />
+    <configuration name="code_34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_34" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
@@ -99,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="num_34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.num_34" />
+    <configuration name="code_35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_35" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
@@ -112,8 +129,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="num_35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.num_35" />
+    <configuration name="code_37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_37" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
@@ -127,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.num_35" />
-        <item itemvalue="Application.num_34" />
-        <item itemvalue="Application.num_33" />
-        <item itemvalue="Application.num_32_3" />
-        <item itemvalue="Application.num_32_2" />
+        <item itemvalue="Application.code_37" />
+        <item itemvalue="Application.code_35" />
+        <item itemvalue="Application.code_34" />
+        <item itemvalue="Application.code_33" />
+        <item itemvalue="Application.code_32_3" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +186,8 @@
       <workItem from="1575719904128" duration="5599000" />
       <workItem from="1575768705286" duration="5268000" />
       <workItem from="1575796646951" duration="10173000" />
-      <workItem from="1575872033816" duration="23818000" />
+      <workItem from="1575872033816" duration="23961000" />
+      <workItem from="1575937506910" duration="12487000" />
     </task>
     <servers />
   </component>
@@ -196,31 +214,6 @@
           <url>file://$PROJECT_DIR$/src/jianzhi_offer/code_19.java</url>
           <line>86</line>
           <option name="timeStamp" value="39" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/jianzhi_offer/num_34.java</url>
-          <line>56</line>
-          <option name="timeStamp" value="53" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/jianzhi_offer/num_34.java</url>
-          <line>55</line>
-          <option name="timeStamp" value="54" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/jianzhi_offer/num_35.java</url>
-          <line>44</line>
-          <option name="timeStamp" value="58" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/jianzhi_offer/num_35.java</url>
-          <line>45</line>
-          <option name="timeStamp" value="60" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/jianzhi_offer/num_35.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="61" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -1,6 +1,6 @@
 package jianzhi_offer;
 
-public class num_28 {
+public class code_28 {
     public static class TreeNode {
         int val = 0;
         TreeNode left = null;

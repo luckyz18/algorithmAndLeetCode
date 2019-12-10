@@ -3,7 +3,7 @@ package jianzhi_offer;
 /**
  * 链表中环的入口节点
  */
-public class num_23 {
+public class code_23 {
     public class ListNode {
         int val;
         ListNode next = null;

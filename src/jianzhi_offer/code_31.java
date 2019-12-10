@@ -6,7 +6,7 @@ import java.util.Stack;
  * 栈的压入弹出序列
  * 使用一个栈来模拟压入弹出操作。
  */
-public class num_31 {
+public class code_31 {
     Stack<Integer> stack = new Stack();
     public boolean IsPopOrder(int [] pushA,int [] popA) {
         if (pushA== null || popA== null){
@@ -25,7 +25,7 @@ public class num_31 {
     }
 
     public static void main(String[] args) {
-        boolean b = new num_31().IsPopOrder(new int[]{1, 2, 3, 4, 5}, new int[]{4, 5, 3, 1, 2});
+        boolean b = new code_31().IsPopOrder(new int[]{1, 2, 3, 4, 5}, new int[]{4, 5, 3, 1, 2});
         System.out.println(b);
     }
 

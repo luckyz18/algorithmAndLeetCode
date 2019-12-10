@@ -7,7 +7,7 @@ import java.util.Queue;
 /**
  * 不分行从上到下打印二叉树
  */
-public class num_32_1 {
+public class code_32_1 {
     public class TreeNode {
         int val = 0;
         TreeNode left = null;

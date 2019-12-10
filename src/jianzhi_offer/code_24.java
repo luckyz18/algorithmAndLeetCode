@@ -3,7 +3,7 @@ package jianzhi_offer;
 /**
  * 反转链表
  */
-public class num_24 {
+public class code_24 {
     public static class ListNode {
         int val;
         ListNode next = null;

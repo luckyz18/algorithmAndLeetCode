@@ -3,7 +3,7 @@ package jianzhi_offer;
 /**
  * 链表中倒数第 K 个节点
  */
-public class num_22 {
+public class code_22 {
     static class ListNode{
         int val;
         ListNode next = null;

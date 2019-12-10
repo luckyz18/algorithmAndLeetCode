@@ -5,7 +5,7 @@ import java.util.Stack;
 /**
  * 包含min函数的栈
  */
-public class num_30 {
+public class code_30 {
     private static Stack<Integer> dataStack = new Stack<>();
     private static Stack<Integer> minStack = new Stack<>();
 

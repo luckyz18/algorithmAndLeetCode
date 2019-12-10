@@ -3,7 +3,7 @@ package jianzhi_offer;
 /**
  * 表示数字的字符串
  */
-public class num_20 {
+public class code_20 {
     public static boolean isNumeric(char[] str) {
         if(str == null || str.length == 0){
             return false;

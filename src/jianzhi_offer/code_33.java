@@ -3,7 +3,7 @@ package jianzhi_offer;
 /**
  * 二叉搜索树的后序遍历序列
  */
-public class num_33 {
+public class code_33 {
     public static boolean VerifySquenceOfBST(int[] sequence) {
         if (sequence == null) {
             return false;

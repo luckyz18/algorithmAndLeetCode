@@ -3,7 +3,7 @@ package jianzhi_offer;
 /**
  * 判断一个树是不是另一个树的子结构
  */
-public class num_26 {
+public class code_26 {
     public static class TreeNode {
         int val = 0;
         TreeNode left = null;

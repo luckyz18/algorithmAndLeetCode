@@ -3,7 +3,7 @@ package jianzhi_offer;
 /**
  * 合并两个排序的链表
  */
-public class num_25 {
+public class code_25 {
     public static class ListNode {
         int val;
         ListNode next = null;

@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * 顺时针打印矩阵
  */
-public class num_29 {
+public class code_29 {
     public static ArrayList<Integer> printMatrix(int[][] matrix) {
         ArrayList<Integer> list = new ArrayList();
         if (matrix == null ) {

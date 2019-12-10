@@ -1,7 +1,7 @@
 package jianzhi_offer;
 
 
-public class num_21 {
+public class code_21 {
     public static void reOrderArray(int [] array) {
         if (array == null || array.length == 0){
             return;

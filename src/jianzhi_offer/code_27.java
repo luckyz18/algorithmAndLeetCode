@@ -5,7 +5,7 @@ import java.util.Stack;
 /**
  * 二叉树镜像
  */
-public class num_27 {
+public class code_27 {
     public static class TreeNode {
         int val = 0;
         TreeNode left = null;

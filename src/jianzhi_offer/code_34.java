@@ -6,7 +6,7 @@ import java.util.Collections;
 /**
  * 二叉树树中和为某一值的路径
  */
-public class num_34 {
+public class code_34 {
     public static class TreeNode {
         int val = 0;
         TreeNode left = null;
