@@ -3,24 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="eebde280-1e84-45b9-9a09-cbfb9f476cd8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/num_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/num_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/num_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/num_23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/num_24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/num_25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/num_26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/num_27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/num_28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/num_29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_29.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/num_30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_30.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/num_31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_31.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/num_32_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_32_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/num_32_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_32_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/num_32_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_32_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/num_33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_33.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/num_34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_34.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/num_35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_35.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +27,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/basic" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -54,8 +36,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Program\NKProgram\src" />
       <recent name="E:\Program\NKProgram\src\basic" />
+      <recent name="E:\Program\NKProgram\src" />
     </key>
   </component>
   <component name="RestServicesNavigator">
@@ -76,9 +58,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.code_37">
-    <configuration name="code_32_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_32_3" />
+  <component name="RunManager" selected="Application.code_40">
+    <configuration name="Backtracking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.Backtracking" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +72,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code_33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_33" />
+    <configuration name="Code_03_Print_All_Subsquences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.class_08.Code_03_Print_All_Subsquences" />
+      <module name="NKProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.class_08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="code_38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_38" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
@@ -103,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code_34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_34" />
+    <configuration name="code_39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_39" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
@@ -116,21 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code_35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_35" />
-      <module name="NKProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jianzhi_offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="code_37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_37" />
+    <configuration name="code_40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_40" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
@@ -144,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.code_37" />
-        <item itemvalue="Application.code_35" />
-        <item itemvalue="Application.code_34" />
-        <item itemvalue="Application.code_33" />
-        <item itemvalue="Application.code_32_3" />
+        <item itemvalue="Application.code_40" />
+        <item itemvalue="Application.code_39" />
+        <item itemvalue="Application.code_38" />
+        <item itemvalue="Application.Backtracking" />
+        <item itemvalue="Application.Code_03_Print_All_Subsquences" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +169,9 @@
       <workItem from="1575768705286" duration="5268000" />
       <workItem from="1575796646951" duration="10173000" />
       <workItem from="1575872033816" duration="23961000" />
-      <workItem from="1575937506910" duration="12487000" />
+      <workItem from="1575937506910" duration="29789000" />
+      <workItem from="1576024156359" duration="31256000" />
+      <workItem from="1576112001676" duration="9334000" />
     </task>
     <servers />
   </component>
@@ -214,6 +198,16 @@
           <url>file://$PROJECT_DIR$/src/jianzhi_offer/code_19.java</url>
           <line>86</line>
           <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianzhi_offer/code_40.java</url>
+          <line>97</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianzhi_offer/code_40.java</url>
+          <line>98</line>
+          <option name="timeStamp" value="44" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
