@@ -123,7 +123,7 @@ public class code_39 {
             }
         }
         arr[l] = base;
-        return l;l
+        return l;
     }
 
 
