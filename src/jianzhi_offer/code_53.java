@@ -41,7 +41,7 @@ public class code_53 {
 
     public static int getNumberOfK(int[] array,int k){
         if (array == null || array.length ==0){
-            return -1;
+            return 0;
         }
         int count = 0 ;
         int len = array.length;

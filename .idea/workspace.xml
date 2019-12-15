@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eebde280-1e84-45b9-9a09-cbfb9f476cd8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_53_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/chapter03/BT/TraverseBT$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/chapter03/BT/TraverseBT$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/chapter03/BT/TraverseBT.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/chapter03/BT/TraverseBT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_53.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_53.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zuo_book/chapter03/BT/TraverseBT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zuo_book/chapter03/BT/TraverseBT.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,9 +63,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.code_53">
-    <configuration name="code_49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_49" />
+  <component name="RunManager" selected="Application.code_58_2">
+    <configuration name="code_56" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_56" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
@@ -72,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code_50" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_50" />
+    <configuration name="code_57" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_57" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
@@ -85,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code_50_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_50_2" />
+    <configuration name="code_57_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_57_2" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
@@ -98,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code_51" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_51" />
+    <configuration name="code_58" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_58" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
@@ -111,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code_53" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_53" />
+    <configuration name="code_58_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_58_2" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
@@ -126,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.code_53" />
-        <item itemvalue="Application.code_51" />
-        <item itemvalue="Application.code_50_2" />
-        <item itemvalue="Application.code_50" />
-        <item itemvalue="Application.code_49" />
+        <item itemvalue="Application.code_58_2" />
+        <item itemvalue="Application.code_58" />
+        <item itemvalue="Application.code_57_2" />
+        <item itemvalue="Application.code_57" />
+        <item itemvalue="Application.code_56" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +179,7 @@
       <workItem from="1576112001676" duration="26277000" />
       <workItem from="1576196907175" duration="25112000" />
       <workItem from="1576287845609" duration="1198000" />
-      <workItem from="1576381442539" duration="2216000" />
+      <workItem from="1576381442539" duration="24526000" />
     </task>
     <servers />
   </component>
