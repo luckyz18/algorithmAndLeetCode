@@ -58,9 +58,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.code_59_1">
-    <configuration name="code_57" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_57" />
+  <component name="RunManager" selected="Application.code_68">
+    <configuration name="code_61" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_61" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
@@ -72,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code_57_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_57_2" />
+    <configuration name="code_62" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_62" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
@@ -85,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code_58" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_58" />
+    <configuration name="code_63" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_63" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
@@ -98,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code_58_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_58_2" />
+    <configuration name="code_67" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_67" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
@@ -111,8 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code_59_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_59_1" />
+    <configuration name="code_68" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_68" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
@@ -126,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.code_59_1" />
-        <item itemvalue="Application.code_58_2" />
-        <item itemvalue="Application.code_58" />
-        <item itemvalue="Application.code_57_2" />
-        <item itemvalue="Application.code_57" />
+        <item itemvalue="Application.code_68" />
+        <item itemvalue="Application.code_67" />
+        <item itemvalue="Application.code_63" />
+        <item itemvalue="Application.code_62" />
+        <item itemvalue="Application.code_61" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +175,9 @@
       <workItem from="1576196907175" duration="25112000" />
       <workItem from="1576287845609" duration="1198000" />
       <workItem from="1576381442539" duration="25400000" />
-      <workItem from="1576676275610" duration="2431000" />
+      <workItem from="1576676275610" duration="2575000" />
+      <workItem from="1576714995114" duration="28372000" />
+      <workItem from="1576804728264" duration="3105000" />
     </task>
     <servers />
   </component>
@@ -194,31 +196,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/jianzhi_offer/code_59_1.java</url>
-          <line>35</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/jianzhi_offer/code_59_1.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/jianzhi_offer/code_59_1.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/jianzhi_offer/code_59_1.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
