@@ -64,12 +64,14 @@ public class code_39 {
     public static int[] partation(int[] arr, int l, int r) {
         swap(arr, l + (int) (Math.random() * (r - l + 1)), r);
 
-        int less = -1;
+        //int less = -1;//?
         int more = r;
+        int less = l - 1;
+
         while (l < more) {
-            if (arr[l++] < arr[more]) {
+            if (arr[l] < arr[r]) {
                 swap(arr, ++less, l++);
-            } else if (arr[l++] > arr[more]) {
+            } else if (arr[l] > arr[more]) {
                 swap(arr, --more, l);
             } else {
                 l++;
@@ -124,6 +126,21 @@ public class code_39 {
         }
         arr[l] = base;
         return l;
+    }
+
+    //partation  网上摘抄 就用这个
+    public int partition4(int a[], int low, int high) {
+        int pivot = a[low];
+        while (low < high) {
+            while (low < high && a[high] >= pivot)
+                --high;
+            a[low] = a[high];
+            while (low < high && a[low] <= pivot)
+                ++low;
+            a[high] = a[low];
+        }
+        a[low] = pivot;
+        return low;
     }
 
 

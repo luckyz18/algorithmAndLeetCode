@@ -2,6 +2,8 @@ package jianzhi_offer;
 
 /**
  * 替换空格
+ *  类似的还有合并排序数组
+ *  思路：从后往前复制
  */
 public class code_05 {
     public static String replaceSpace(StringBuffer str) {

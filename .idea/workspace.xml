@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="eebde280-1e84-45b9-9a09-cbfb9f476cd8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_39.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_39.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -27,12 +31,12 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/basic" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -58,13 +62,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.code_68">
-    <configuration name="code_61" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_61" />
+  <component name="RunManager" selected="Application.IOdemo">
+    <configuration name="CloneTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testdemo.CloneTest" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jianzhi_offer.*" />
+          <option name="PATTERN" value="testdemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code_62" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_62" />
+    <configuration name="CustomDelayQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testdemo.CustomDelayQueue" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jianzhi_offer.*" />
+          <option name="PATTERN" value="testdemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code_63" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_63" />
+    <configuration name="IOdemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testdemo.IOdemo" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jianzhi_offer.*" />
+          <option name="PATTERN" value="testdemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code_67" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_67" />
+    <configuration name="MapTranverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testdemo.MapTranverse" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jianzhi_offer.*" />
+          <option name="PATTERN" value="testdemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code_68" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_68" />
+    <configuration name="TreeMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testdemo.TreeMapDemo" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jianzhi_offer.*" />
+          <option name="PATTERN" value="testdemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,13 +128,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.CloneTest" />
+      <item itemvalue="Application.TreeMapDemo" />
+      <item itemvalue="Application.MapTranverse" />
+      <item itemvalue="Application.CustomDelayQueue" />
+      <item itemvalue="Application.IOdemo" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.code_68" />
-        <item itemvalue="Application.code_67" />
-        <item itemvalue="Application.code_63" />
-        <item itemvalue="Application.code_62" />
-        <item itemvalue="Application.code_61" />
+        <item itemvalue="Application.IOdemo" />
+        <item itemvalue="Application.CustomDelayQueue" />
+        <item itemvalue="Application.MapTranverse" />
+        <item itemvalue="Application.TreeMapDemo" />
+        <item itemvalue="Application.CloneTest" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +188,30 @@
       <workItem from="1576381442539" duration="25400000" />
       <workItem from="1576676275610" duration="2575000" />
       <workItem from="1576714995114" duration="28372000" />
-      <workItem from="1576804728264" duration="3105000" />
+      <workItem from="1576804728264" duration="14201000" />
+      <workItem from="1576922535927" duration="2108000" />
+      <workItem from="1576979827313" duration="11857000" />
+      <workItem from="1577066604782" duration="7355000" />
+      <workItem from="1577199563846" duration="90000" />
+      <workItem from="1577234280153" duration="11340000" />
+      <workItem from="1577322498922" duration="7495000" />
+      <workItem from="1577411164431" duration="5838000" />
+      <workItem from="1577496400881" duration="7728000" />
+      <workItem from="1577667443548" duration="7656000" />
+      <workItem from="1577756807622" duration="11837000" />
+      <workItem from="1577928766286" duration="12578000" />
+      <workItem from="1578012381798" duration="2842000" />
+      <workItem from="1578103363315" duration="3870000" />
+      <workItem from="1578136724168" duration="8430000" />
+      <workItem from="1578186980625" duration="1549000" />
+      <workItem from="1578309030713" duration="1713000" />
+      <workItem from="1581165997730" duration="1416000" />
+      <workItem from="1581393191999" duration="1582000" />
+      <workItem from="1582009779794" duration="7626000" />
+      <workItem from="1582078042122" duration="17629000" />
+      <workItem from="1582167381703" duration="8622000" />
+      <workItem from="1582203246777" duration="1486000" />
+      <workItem from="1582251004244" duration="7959000" />
     </task>
     <servers />
   </component>
@@ -196,5 +230,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="filepath.substring(13)" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
