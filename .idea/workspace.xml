@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="eebde280-1e84-45b9-9a09-cbfb9f476cd8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_39.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_39.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +16,7 @@
         <option value="FxmlFile" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -36,7 +35,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -62,9 +61,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IOdemo">
-    <configuration name="CloneTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testdemo.CloneTest" />
+  <component name="RunManager" selected="Application.MethodOne">
+    <configuration name="MethodFourCyclicBarrier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testdemo.thread_comn.MethodFourCyclicBarrier" />
+      <module name="NKProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testdemo.thread_comn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testdemo.thread_comn.MethodOne" />
+      <module name="NKProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testdemo.thread_comn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhaseDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testdemo.PhaseDemo" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
@@ -76,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomDelayQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testdemo.CustomDelayQueue" />
+    <configuration name="ReadWriteLockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testdemo.ReadWriteLockTest" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
@@ -89,34 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IOdemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testdemo.IOdemo" />
-      <module name="NKProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testdemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MapTranverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testdemo.MapTranverse" />
-      <module name="NKProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testdemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TreeMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testdemo.TreeMapDemo" />
+    <configuration name="ZhiYInyong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testdemo.ZhiYInyong" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
@@ -129,19 +128,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CloneTest" />
-      <item itemvalue="Application.TreeMapDemo" />
-      <item itemvalue="Application.MapTranverse" />
-      <item itemvalue="Application.CustomDelayQueue" />
-      <item itemvalue="Application.IOdemo" />
+      <item itemvalue="Application.PhaseDemo" />
+      <item itemvalue="Application.ReadWriteLockTest" />
+      <item itemvalue="Application.ZhiYInyong" />
+      <item itemvalue="Application.MethodFourCyclicBarrier" />
+      <item itemvalue="Application.MethodOne" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IOdemo" />
-        <item itemvalue="Application.CustomDelayQueue" />
-        <item itemvalue="Application.MapTranverse" />
-        <item itemvalue="Application.TreeMapDemo" />
-        <item itemvalue="Application.CloneTest" />
+        <item itemvalue="Application.MethodOne" />
+        <item itemvalue="Application.MethodFourCyclicBarrier" />
+        <item itemvalue="Application.ZhiYInyong" />
+        <item itemvalue="Application.ReadWriteLockTest" />
+        <item itemvalue="Application.PhaseDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +210,13 @@
       <workItem from="1582078042122" duration="17629000" />
       <workItem from="1582167381703" duration="8622000" />
       <workItem from="1582203246777" duration="1486000" />
-      <workItem from="1582251004244" duration="7959000" />
+      <workItem from="1582251004244" duration="14702000" />
+      <workItem from="1582333931133" duration="13896000" />
+      <workItem from="1582423266637" duration="12876000" />
+      <workItem from="1582505673526" duration="9448000" />
+      <workItem from="1582854938827" duration="772000" />
+      <workItem from="1582888432647" duration="3306000" />
+      <workItem from="1582940052954" duration="7038000" />
     </task>
     <servers />
   </component>
