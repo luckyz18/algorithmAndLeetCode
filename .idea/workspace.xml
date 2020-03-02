@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="eebde280-1e84-45b9-9a09-cbfb9f476cd8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testdemo/IAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testdemo/IAnimal.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +16,8 @@
       <list>
         <option value="FxmlFile" />
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -61,7 +62,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MethodOne">
+  <component name="RunManager" selected="Application.CopyMap">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testdemo.nio.Client" />
+      <module name="NKProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testdemo.nio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CopyMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testdemo.CopyMap" />
+      <module name="NKProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MethodFourCyclicBarrier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="testdemo.thread_comn.MethodFourCyclicBarrier" />
       <module name="NKProgram" />
@@ -88,38 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhaseDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testdemo.PhaseDemo" />
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testdemo.nio.Server" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testdemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReadWriteLockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testdemo.ReadWriteLockTest" />
-      <module name="NKProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testdemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ZhiYInyong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testdemo.ZhiYInyong" />
-      <module name="NKProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testdemo.*" />
+          <option name="PATTERN" value="testdemo.nio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,19 +129,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PhaseDemo" />
-      <item itemvalue="Application.ReadWriteLockTest" />
-      <item itemvalue="Application.ZhiYInyong" />
       <item itemvalue="Application.MethodFourCyclicBarrier" />
       <item itemvalue="Application.MethodOne" />
+      <item itemvalue="Application.Server" />
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.CopyMap" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CopyMap" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
         <item itemvalue="Application.MethodOne" />
         <item itemvalue="Application.MethodFourCyclicBarrier" />
-        <item itemvalue="Application.ZhiYInyong" />
-        <item itemvalue="Application.ReadWriteLockTest" />
-        <item itemvalue="Application.PhaseDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +217,9 @@
       <workItem from="1582505673526" duration="9448000" />
       <workItem from="1582854938827" duration="772000" />
       <workItem from="1582888432647" duration="3306000" />
-      <workItem from="1582940052954" duration="7038000" />
+      <workItem from="1582940052954" duration="9434000" />
+      <workItem from="1583034610671" duration="7220000" />
+      <workItem from="1583120711268" duration="3545000" />
     </task>
     <servers />
   </component>

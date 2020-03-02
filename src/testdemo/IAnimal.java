@@ -8,4 +8,8 @@ public interface IAnimal {
     default void eat(){
         System.out.println("eat..");
     }
+
+    static void hh() {
+
+    }
 }
