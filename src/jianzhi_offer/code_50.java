@@ -3,6 +3,9 @@ package jianzhi_offer;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * 第一个只出现一次的字符位置
+ */
 public class code_50 {
     public int  firstNotRepeatingChar(String str){
         if (str == null || str.length() ==0){

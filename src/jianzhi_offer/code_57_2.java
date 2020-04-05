@@ -2,6 +2,7 @@ package jianzhi_offer;
 
 import java.util.ArrayList;
 
+//和为 S 的连续正数序列
 public class code_57_2 {
     public static ArrayList<ArrayList<Integer>> FindContinuousSequence(int sum) {
         if (sum <= 0) {

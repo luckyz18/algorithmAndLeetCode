@@ -1,5 +1,8 @@
 package jianzhi_offer;
 
+/**
+ * 数值的整数次方
+ */
 public class code_16 {
     public static double Power(double base, int exponent) {
         boolean isNeagtive = false;

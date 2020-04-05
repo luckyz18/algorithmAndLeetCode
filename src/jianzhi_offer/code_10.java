@@ -1,5 +1,8 @@
 package jianzhi_offer;
 
+/**
+ * 斐波那契数列
+ */
 public class code_10 {
     //时间复杂度O(N) 空间O(N)
     public int Fibonacci(int n) {

@@ -3,6 +3,10 @@ package zuo_book.chapter03.BT;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * 通过先序 中序数组生成后序数组
+ 根据先序和中序重建二叉树
+ */
 public class PostArr {
 
     //网上 根据先序和中序重建二叉树

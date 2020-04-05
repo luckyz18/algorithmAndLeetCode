@@ -4,6 +4,9 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
 
+/**
+ * 把二叉树打印成多行
+ */
 public class code_32_2 {
     public static class TreeNode {
         int val = 0;

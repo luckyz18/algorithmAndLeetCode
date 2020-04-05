@@ -88,6 +88,25 @@ public class code_40 {
         return j;
 
     }
+
+    //参考下面这种也行
+    /*int partition(int* input, int low, int high)
+    {
+        int tmp = input[low]; // 取一个基准元素
+        while (low < high) {
+            while (low < high && input[high] >= tmp) {
+                high--;
+            }
+            input[low] = input[high];
+            while (low < high && input[low] <= tmp) {
+                low++;
+            }
+            input[high] = input[low];
+        }
+        input[low] = tmp;
+        return low;
+    }*/
+
     private static void swap(int[] nums, int i, int j) {
         int t = nums[i];
         nums[i] = nums[j];

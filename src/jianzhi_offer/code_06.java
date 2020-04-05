@@ -1,6 +1,7 @@
 package jianzhi_offer;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Stack;
 
 /**

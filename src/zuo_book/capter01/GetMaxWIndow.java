@@ -3,6 +3,9 @@ package zuo_book.capter01;
 import java.util.LinkedList;
 import java.util.List;
 
+/**
+ * 生成窗口最大的值数组
+ */
 public class GetMaxWIndow {
 
     private int length;

@@ -2,6 +2,9 @@ package zuo_book.capter01;
 
 import com.sun.xml.internal.ws.api.message.Header;
 
+/**
+ * 约瑟夫问题
+ */
 public class Yuesefu {
 
     static class Node {

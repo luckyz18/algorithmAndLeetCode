@@ -62,6 +62,7 @@ public class code_11 {
 
     public static void main(String[] args) {
         int i = minNumberInRotateArray2(new int[]{1,2,3,4});
+        //int i = minNumberInRotateArray2333(new int[]{1,2,3,4});
         System.out.println(i);
     }
 }

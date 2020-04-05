@@ -1,5 +1,8 @@
 package jianzhi_offer;
 
+/**
+ * 对称的二叉树
+ */
 public class code_28 {
     public static class TreeNode {
         int val = 0;

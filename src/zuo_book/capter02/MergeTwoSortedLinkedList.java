@@ -1,5 +1,8 @@
 package zuo_book.capter02;
 
+/**
+ * 合并两个有序的链表
+ */
 public class MergeTwoSortedLinkedList {
     static class Node {
         int value;

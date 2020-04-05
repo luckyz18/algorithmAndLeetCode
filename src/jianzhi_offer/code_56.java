@@ -1,5 +1,6 @@
 package jianzhi_offer;
 
+//数组中只出现一次的数字
 public class code_56 {
     public static void findNumsAppearOnce(int [] array,int num1[] , int num2[]){
         if (array == null || array.length == 0){

@@ -12,7 +12,7 @@ public class Code_07_IsSBTAndCBT {
 		}
 	}
 
-	/**判断是否是搜索二叉树
+	/**判断是否是搜索二叉树BST
 	 * 中序遍历 有序 
 	 * @return
 	 */

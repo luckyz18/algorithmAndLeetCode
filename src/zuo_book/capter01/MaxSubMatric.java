@@ -2,6 +2,9 @@ package zuo_book.capter01;
 
 import java.util.Stack;
 
+/**
+ * 求最大子矩阵的大小
+ */
 public class MaxSubMatric {
     public static int getREcSize(int[][] map) {
         if (map == null || map.length == 0 || map[0].length == 0) {

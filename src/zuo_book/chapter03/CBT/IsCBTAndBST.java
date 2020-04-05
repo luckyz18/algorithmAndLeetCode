@@ -4,6 +4,10 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Stack;
 
+/**
+ * 是否是完全二叉树
+ * 是否是二叉搜索树
+ */
 public class IsCBTAndBST {
     static class Node {
         int value;
@@ -34,7 +38,7 @@ public class IsCBTAndBST {
             head = queue.poll();
             l = head.left;
             r = head.right;
-            if (l == null && r != null) {
+            if (l == null && r != null) {  //有右子树没左子树
                 return false;
             }
             //如果要求其是叶子节点 但是该节点有左右孩子
@@ -86,7 +90,7 @@ public class IsCBTAndBST {
 
     /**
      * morris序列的解法
-     *
+     * 判断是否是搜索二叉树 BST
      * @param head
      * @return
      */
@@ -129,6 +133,21 @@ public class IsCBTAndBST {
         return true;
     }
 
+    /**
+     * 有边界的递归  因为要保证右子树的最小值都大于根节点
+     */
+    public boolean checkBST(Node root) {
+        return checkBST(root,Integer.MIN_VALUE,Integer.MAX_VALUE);
+    }
+
+    private boolean checkBST(Node root, int lower, int upper) {
+        if (root == null) return true;
+        int curVal = root.value;
+        if (curVal<= lower || curVal>= upper) {
+            return false;
+        }
+        return checkBST(root.left, lower, curVal) && checkBST(root.right, curVal, upper);
+    }
 
     public static void main(String[] args) {
         Node head = new Node(3);

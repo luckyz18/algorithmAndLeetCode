@@ -2,6 +2,9 @@ package jianzhi_offer;
 
 import java.util.Stack;
 
+/**
+ * 用两个栈实现队列
+ */
 public class code_09 {
     Stack<Integer> stack1 = new Stack<Integer>();
     Stack<Integer> stack2 = new Stack<Integer>();

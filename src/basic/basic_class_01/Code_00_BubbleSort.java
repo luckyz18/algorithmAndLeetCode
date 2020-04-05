@@ -108,4 +108,20 @@ public class Code_00_BubbleSort {
 		printArray(arr);
 	}
 
+	//test
+	public static void bubble(int[] arr) {
+		for (int i = arr.length-1; i >= 0 ; i--) {
+			boolean flag = false;
+			for (int j = 0; j < i; j++) {
+				if (arr[j] > arr[j+1]){
+					swap(arr,i,j);
+					flag = true;
+				}
+			}
+			if (flag == false){
+				break;
+			}
+		}
+	}
+
 }

@@ -1,6 +1,8 @@
 package zuo_book.chapter03.BST;
 
-
+/**
+ * 根据后序数组重建搜索二叉树
+ */
 public class PostArray {
     static class Node {
         int value;

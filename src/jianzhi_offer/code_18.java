@@ -1,5 +1,8 @@
 package jianzhi_offer;
 
+/**
+ * O(1) 删除链表节点
+ */
 public class code_18 {
     static class ListNode {
         int value;

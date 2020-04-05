@@ -1,5 +1,8 @@
 package jianzhi_offer;
 
+/**
+ * 数字在排序数组中出现的次数
+ */
 public class code_53 {
     //二分查找变形
     public static int getFirstK(int[] array, int len, int k, int start, int end){

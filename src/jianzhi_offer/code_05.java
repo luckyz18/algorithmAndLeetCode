@@ -10,21 +10,21 @@ public class code_05 {
         if (str == null || "".equals(str)) {
             return null;
         }
-        int p = str.length()-1;
+        int p = str.length() - 1;
         for (int i = 0; i <= p; i++) {
             if (str.charAt(i) == ' ') {
-               str.append("  ");  //两个空格
+                str.append("  ");  //两个空格
             }
         }
-        int q =str.length()-1;
-        while ( p >= 0 && q > p ){
+        int q = str.length() - 1;
+        while (p >= 0 && q > p) {
             char c = str.charAt(p--);
-            if (c ==' '){
-                str.setCharAt(q--,'0');
-                str.setCharAt(q--,'2');
-                str.setCharAt(q--,'%');
-            }else{
-                str.setCharAt(q--,c);
+            if (c == ' ') {
+                str.setCharAt(q--, '0');
+                str.setCharAt(q--, '2');
+                str.setCharAt(q--, '%');
+            } else {
+                str.setCharAt(q--, c);
             }
         }
         return str.toString();

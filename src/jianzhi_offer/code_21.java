@@ -1,6 +1,8 @@
 package jianzhi_offer;
 
-
+/**
+ * 调整数组顺序使奇数位于偶数前面
+ */
 public class code_21 {
     public static void reOrderArray(int [] array) {
         if (array == null || array.length == 0){

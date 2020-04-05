@@ -3,7 +3,7 @@ package zuo_book.capter02;
 import java.util.Stack;
 
 /**
- * @author
+ * 将单链表的没K个节点之间逆序
  */
 public class ReverseKNode {
     static class Node {

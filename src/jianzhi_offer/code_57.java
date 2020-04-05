@@ -2,6 +2,7 @@ package jianzhi_offer;
 
 import java.util.ArrayList;
 
+//和为 S 的两个数字
 public class code_57 {
     public static ArrayList<Integer> FindNumbersWithSum(int[] array, int sum) {
         if (array == null || array.length == 0){

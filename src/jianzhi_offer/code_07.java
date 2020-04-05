@@ -3,6 +3,10 @@ package jianzhi_offer;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * 重建二叉树
+ * 根据先序 中序 数组
+ */
 public class code_07 {
     public static class TreeNode {
         int val;

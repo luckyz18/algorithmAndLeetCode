@@ -3,13 +3,69 @@
   <component name="ChangeListManager">
     <list default="true" id="eebde280-1e84-45b9-9a09-cbfb9f476cd8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testdemo/IAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testdemo/IAnimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NKProgram/basic/basic_class_01/Code_00_BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NKProgram/basic/basic_class_01/Code_00_BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/capter01/GetMaxWIndow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/capter01/GetMaxWIndow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/capter01/MaxSubMatric.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/capter01/MaxSubMatric.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/capter01/Yuesefu$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/capter01/Yuesefu$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/capter01/Yuesefu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/capter01/Yuesefu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/capter02/MergeTwoSortedLinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/capter02/MergeTwoSortedLinkedList$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/capter02/MergeTwoSortedLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/capter02/MergeTwoSortedLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/basic_class_01/Code_00_BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/basic_class_01/Code_00_BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/my_basic/class_4/Code_07_IsSBTAndCBT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/my_basic/class_4/Code_07_IsSBTAndCBT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_32_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_32_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_40.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_40.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_46.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_46.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_50.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_50.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_53.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_53.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_55.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_55.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_56.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_56.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_57.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_57.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_57_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_57_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zuo_book/capter01/GetMaxWIndow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zuo_book/capter01/GetMaxWIndow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zuo_book/capter01/MaxSubMatric.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zuo_book/capter01/MaxSubMatric.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zuo_book/capter01/Yuesefu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zuo_book/capter01/Yuesefu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zuo_book/capter02/MergeTwoSortedLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zuo_book/capter02/MergeTwoSortedLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zuo_book/capter02/ReverseKNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zuo_book/capter02/ReverseKNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zuo_book/chapter03/BST/PostArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zuo_book/chapter03/BST/PostArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zuo_book/chapter03/BT/Morris.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zuo_book/chapter03/BT/Morris.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zuo_book/chapter03/BT/PostArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zuo_book/chapter03/BT/PostArr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zuo_book/chapter03/CBT/IsCBTAndBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zuo_book/chapter03/CBT/IsCBTAndBST.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="NKProgram" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -31,12 +87,12 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LeetCode/leetcode" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -62,13 +118,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CopyMap">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testdemo.nio.Client" />
+  <component name="RunManager" selected="Application.MergeKSortedArray">
+    <configuration name="Chinese2AlaBo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kaoshi.Chinese2AlaBo" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testdemo.nio.*" />
+          <option name="PATTERN" value="kaoshi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CopyMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testdemo.CopyMap" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kaoshi.baidu.Main" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testdemo.*" />
+          <option name="PATTERN" value="kaoshi.baidu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodFourCyclicBarrier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testdemo.thread_comn.MethodFourCyclicBarrier" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kaoshi.qianxin.Main" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testdemo.thread_comn.*" />
+          <option name="PATTERN" value="kaoshi.qianxin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testdemo.thread_comn.MethodOne" />
+    <configuration name="Main2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kaoshi.qianxin.Main2" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testdemo.thread_comn.*" />
+          <option name="PATTERN" value="kaoshi.qianxin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +171,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testdemo.nio.Server" />
+    <configuration name="MergeKSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tengxun_mianshi.MergeKSortedArray" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testdemo.nio.*" />
+          <option name="PATTERN" value="tengxun_mianshi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,19 +185,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MethodFourCyclicBarrier" />
-      <item itemvalue="Application.MethodOne" />
-      <item itemvalue="Application.Server" />
-      <item itemvalue="Application.Client" />
-      <item itemvalue="Application.CopyMap" />
+      <item itemvalue="Application.Chinese2AlaBo" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main2 (1)" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.MergeKSortedArray" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CopyMap" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Server" />
-        <item itemvalue="Application.MethodOne" />
-        <item itemvalue="Application.MethodFourCyclicBarrier" />
+        <item itemvalue="Application.MergeKSortedArray" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main2 (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Chinese2AlaBo" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +275,28 @@
       <workItem from="1582888432647" duration="3306000" />
       <workItem from="1582940052954" duration="9434000" />
       <workItem from="1583034610671" duration="7220000" />
-      <workItem from="1583120711268" duration="3545000" />
+      <workItem from="1583120711268" duration="5763000" />
+      <workItem from="1583238747309" duration="2825000" />
+      <workItem from="1584175131960" duration="8573000" />
+      <workItem from="1584316395374" duration="19644000" />
+      <workItem from="1584493763420" duration="31467000" />
+      <workItem from="1584882095382" duration="5559000" />
+      <workItem from="1584932803622" duration="21088000" />
+      <workItem from="1585058219850" duration="5728000" />
+      <workItem from="1585098360502" duration="10824000" />
+      <workItem from="1585133155015" duration="1293000" />
+      <workItem from="1585185680948" duration="19601000" />
+      <workItem from="1585289203116" duration="12823000" />
+      <workItem from="1585479345889" duration="5300000" />
+      <workItem from="1585499542532" duration="156000" />
+      <workItem from="1585530483712" duration="2545000" />
+      <workItem from="1585570162852" duration="1289000" />
+      <workItem from="1585633524660" duration="1319000" />
+      <workItem from="1585815804698" duration="1531000" />
+      <workItem from="1585844021435" duration="1053000" />
+      <workItem from="1585845105077" duration="122000" />
+      <workItem from="1585996385072" duration="3057000" />
+      <workItem from="1586048756579" duration="1962000" />
     </task>
     <servers />
   </component>
@@ -240,10 +317,29 @@
     </option>
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/kaoshi/baidu/Main.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/kaoshi/baidu/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="filepath.substring(13)" language="JAVA" />
       </configuration>
     </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/NKProgram$Main2.ic" NAME="Main2 Coverage Results" MODIFIED="1584966561050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>kaoshi.*</FILTER>
+    </SUITE>
   </component>
 </project>

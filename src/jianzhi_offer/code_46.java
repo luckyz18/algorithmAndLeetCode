@@ -1,5 +1,8 @@
 package jianzhi_offer;
 
+/**
+ * 把数字翻译成字符串
+ */
 public class code_46 {
 
     /**

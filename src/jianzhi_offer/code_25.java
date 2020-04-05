@@ -52,6 +52,7 @@ public class code_25 {
         }
     }
 
+
     public static void main(String[] args) {
         ListNode head1 = new ListNode(1);
         head1.next = new ListNode(3);
@@ -67,4 +68,5 @@ public class code_25 {
         ListNode merge = Merge2(head1, head2);
         System.out.println(merge.val);
     }
+
 }

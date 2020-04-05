@@ -38,7 +38,7 @@ public class Morris {
                     continue;
                 } else {
                     //如果最右节点指向cur  让其指向null
-                    mostRight = null;  //第二次访问  cur
+                    mostRight.right = null;  //第二次访问  cur
                     System.out.println("--" + cur.value + "  ");
                 }
             } else {
@@ -74,7 +74,7 @@ public class Morris {
                     continue;
                 } else {
                     //如果最右节点指向cur  让其指向null
-                    mostRight = null;  //第二次访问  cur
+                    mostRight.right = null;  //第二次访问  cur
                 }
             } else {
                 //打印
@@ -107,7 +107,7 @@ public class Morris {
                     continue;
                 } else {
                     //如果最右节点指向cur  让其指向null
-                    mostRight = null;  //第二次访问  cur
+                    mostRight.right = null;  //第二次访问  cur
                     System.out.print(cur.value + " ");
                 }
             } else {
@@ -120,19 +120,59 @@ public class Morris {
         }
     }
 
+    // morris 序列 改写判断 是否是BST
+    // 时间O(N) 空间时 O(1)
+    public static boolean morrisTestIsCBT(Node root) {
+        if (root == null) {
+            return false;
+        }
+        Node cur = root;
+        Node mostRight = null;
+        Node pre = null;
+        while (cur != null) {
+            mostRight = cur.left;
+            if (mostRight != null) {
+                while (mostRight.right != null && mostRight.right != cur) {
+                    mostRight = mostRight.right;
+                }
+                if (mostRight.right == null) {
+                    mostRight.right = cur;  //1.
+                    cur = cur.left;
+                    continue;
+                } else {
+                    mostRight.right = null;  //2.  有左子树 中序 是 第二次访问的时候打印（判断业务逻辑）
+                }
+            } else {
+                //没左子树 只访问一次
+                //1.
+            }
+            //只访问一次的节点和访问两次第二次访问的节点 统一在这里判断了
+            if (pre != null && pre.value > cur.value) {
+                return false;
+            } else {
+                pre = cur;
+            }
+
+            cur = cur.right;
+        }
+        return true;
+    }
+
+
     public static void main(String[] args) {
-        Node root = new Node(4);
-        root.left = new Node(2);
-        root.right = new Node(6);
-        root.left.left = new Node(1);
-        root.left.right = new Node(3);
-        root.right.left = new Node(5);
-        root.right.right = new Node(7);
+        Node head = new Node(4);
+        head.left = new Node(2);
+        head.right = new Node(6);
+        head.left.left = new Node(1);
+        head.left.right = new Node(3);
+        head.right.left = new Node(5);
+
+        System.out.println(morrisTestIsCBT(head));
 
         //mirrors(root);
         //System.out.println("-----------------------");
         //mirrorByPre(root);
         //System.out.println("-----------------------");
-        mirrorByInorder(root);
+        //mirrorByInorder(root);
     }
 }
