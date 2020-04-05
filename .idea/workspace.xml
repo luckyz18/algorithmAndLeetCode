@@ -2,47 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eebde280-1e84-45b9-9a09-cbfb9f476cd8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NKProgram/basic/basic_class_01/Code_00_BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NKProgram/basic/basic_class_01/Code_00_BubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/capter01/GetMaxWIndow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/capter01/GetMaxWIndow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/capter01/MaxSubMatric.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/capter01/MaxSubMatric.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/capter01/Yuesefu$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/capter01/Yuesefu$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/capter01/Yuesefu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/capter01/Yuesefu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/capter02/MergeTwoSortedLinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/capter02/MergeTwoSortedLinkedList$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/capter02/MergeTwoSortedLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NKProgram/zuo_book/capter02/MergeTwoSortedLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/basic_class_01/Code_00_BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/basic_class_01/Code_00_BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/my_basic/class_4/Code_07_IsSBTAndCBT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/my_basic/class_4/Code_07_IsSBTAndCBT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_32_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_32_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_40.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_40.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_46.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_46.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_50.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_50.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_53.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_53.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_55.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_55.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_56.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_56.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_57.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_57.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_57_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_57_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zuo_book/capter01/GetMaxWIndow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zuo_book/capter01/GetMaxWIndow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zuo_book/capter01/MaxSubMatric.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zuo_book/capter01/MaxSubMatric.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zuo_book/capter01/Yuesefu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zuo_book/capter01/Yuesefu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zuo_book/capter02/MergeTwoSortedLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zuo_book/capter02/MergeTwoSortedLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zuo_book/capter02/ReverseKNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zuo_book/capter02/ReverseKNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zuo_book/chapter03/BST/PostArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zuo_book/chapter03/BST/PostArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zuo_book/chapter03/BT/Morris.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zuo_book/chapter03/BT/Morris.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zuo_book/chapter03/BT/PostArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zuo_book/chapter03/BT/PostArr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zuo_book/chapter03/CBT/IsCBTAndBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zuo_book/chapter03/CBT/IsCBTAndBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tengxun_mianshi/LRU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tengxun_mianshi/LRU.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -296,7 +256,7 @@
       <workItem from="1585844021435" duration="1053000" />
       <workItem from="1585845105077" duration="122000" />
       <workItem from="1585996385072" duration="3057000" />
-      <workItem from="1586048756579" duration="1962000" />
+      <workItem from="1586048756579" duration="4622000" />
     </task>
     <servers />
   </component>
