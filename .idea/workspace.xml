@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eebde280-1e84-45b9-9a09-cbfb9f476cd8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/tengxun_mianshi/LRU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tengxun_mianshi/LRU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kaoshi/bianlifeng/Main1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kaoshi/bianlifeng/Main2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kaoshi/bianlifeng/Main3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kaoshi/bianlifeng/Shuixianhua.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shiyanshi/demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shiyanshi/demo3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tengxun_mianshi/DoubleNodeList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tengxun_mianshi/LRU.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tengxun_mianshi/MergeKSortedArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tengxun_mianshi/Node.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,10 +64,11 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Program\NKProgram\src\kaoshi" />
       <recent name="E:\Program\NKProgram\src\basic" />
       <recent name="E:\Program\NKProgram\src" />
     </key>
@@ -78,13 +91,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MergeKSortedArray">
-    <configuration name="Chinese2AlaBo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kaoshi.Chinese2AlaBo" />
+  <component name="RunManager" selected="Application.code_17">
+    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kaoshi.mianshi.pdd.Main1" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kaoshi.*" />
+          <option name="PATTERN" value="kaoshi.mianshi.pdd.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kaoshi.baidu.Main" />
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kaoshi.mianshi.pdd.Main2" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kaoshi.baidu.*" />
+          <option name="PATTERN" value="kaoshi.mianshi.pdd.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kaoshi.qianxin.Main" />
+    <configuration name="Main6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kaoshi.mianshi.ali.Main6" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kaoshi.qianxin.*" />
+          <option name="PATTERN" value="kaoshi.mianshi.ali.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kaoshi.qianxin.Main2" />
+    <configuration name="code_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_17" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kaoshi.qianxin.*" />
+          <option name="PATTERN" value="jianzhi_offer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeKSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tengxun_mianshi.MergeKSortedArray" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kaoshi.mianshi.ali.test" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tengxun_mianshi.*" />
+          <option name="PATTERN" value="kaoshi.mianshi.ali.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,19 +158,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Chinese2AlaBo" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main2 (1)" />
-      <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.MergeKSortedArray" />
+      <item itemvalue="Application.Main6" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.Main1" />
+      <item itemvalue="Application.Main2" />
+      <item itemvalue="Application.code_17" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MergeKSortedArray" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main2 (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Chinese2AlaBo" />
+        <item itemvalue="Application.code_17" />
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Main1" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Main6" />
       </list>
     </recent_temporary>
   </component>
@@ -256,7 +269,16 @@
       <workItem from="1585844021435" duration="1053000" />
       <workItem from="1585845105077" duration="122000" />
       <workItem from="1585996385072" duration="3057000" />
-      <workItem from="1586048756579" duration="4622000" />
+      <workItem from="1586048756579" duration="10750000" />
+      <workItem from="1586098617412" duration="24841000" />
+      <workItem from="1586320188198" duration="14475000" />
+      <workItem from="1586401272595" duration="14739000" />
+      <workItem from="1586527350527" duration="1307000" />
+      <workItem from="1586576445450" duration="13698000" />
+      <workItem from="1586616257698" duration="179000" />
+      <workItem from="1586651437360" duration="6564000" />
+      <workItem from="1586747582819" duration="2505000" />
+      <workItem from="1586825325461" duration="2845000" />
     </task>
     <servers />
   </component>

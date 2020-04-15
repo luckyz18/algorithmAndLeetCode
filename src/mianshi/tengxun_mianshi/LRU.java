@@ -1,4 +1,4 @@
-package tengxun_mianshi;
+package mianshi.tengxun_mianshi;
 
 import java.util.Map;
 

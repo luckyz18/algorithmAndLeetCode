@@ -1,4 +1,4 @@
-package tengxun_mianshi;
+package mianshi.tengxun_mianshi;
 
 public class DoubleNodeList<V> {
     private Node head;

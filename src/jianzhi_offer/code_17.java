@@ -12,6 +12,8 @@ public class code_17 {
         }
         char[] num = new char[n];
         Arrays.fill(num,'0');
+        num[n-1] = '8';
+        num[n-2] = '9';
         while (!inCreatement(num)) {
             printNum(num);
         }
@@ -87,6 +89,6 @@ public class code_17 {
         System.out.println();
     }
     public static void main(String[] args) {
-        new code_17().print1ToMaxOfNDigits2(2);
+        new code_17().print1ToMaxOfNDigits(2);
     }
 }

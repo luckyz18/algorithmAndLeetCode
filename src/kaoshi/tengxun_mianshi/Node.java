@@ -1,4 +1,4 @@
-package tengxun_mianshi;
+package kaoshi.tengxun_mianshi;
 
 public class Node<V> {
      V value;

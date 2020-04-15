@@ -1,4 +1,4 @@
-package shiyanshi;
+package kaoshi.shiyanshi;
 
 import java.io.File;
 import java.io.FileReader;
