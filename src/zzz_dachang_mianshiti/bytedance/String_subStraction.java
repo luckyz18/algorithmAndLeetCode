@@ -1,6 +1,7 @@
 package zzz_dachang_mianshiti.bytedance;
 
 
+import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -69,15 +70,20 @@ public class String_subStraction {
     }
 
     private static String filterZero(StringBuilder result) {
-        for (int i = 0; i < result.length(); i++) {
-            if (result.charAt(i)=='0' && !(result.charAt(i) == '.')){
-                continue;
-            }
-            if (result.charAt(i) == '.'){
-                return result.substring(i-1,result.length());
+        int index = result.indexOf(".");
+        boolean notAllZero = false;
+        int i = 0 ;
+        for (i = 0; i <index ; i++) {
+            if (result.charAt(i) != '0'){
+                notAllZero = true;
+                break;
             }
         }
-        return result.toString();
+        if (notAllZero){
+            return result.substring(i,result.length());
+        } else {
+            return "0" + result.substring(index,result.length());
+        }
     }
 
     private static void addStr(List<String> num1List, String num1) {
@@ -93,7 +99,8 @@ public class String_subStraction {
     }
 
     public static void main(String[] args) {
-        String s = subTraction( "12.3","12.20");
+        String s = subTraction( "12345.789","3333675.32455");
+        //String s = filterZero(new StringBuilder("000012.0300"));
         System.out.println(s);
     }
 

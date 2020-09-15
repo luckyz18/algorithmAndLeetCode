@@ -3,17 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="eebde280-1e84-45b9-9a09-cbfb9f476cd8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/Backtracking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/Backtracking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_18_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_18_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_34.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_35.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_40.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_40.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kaoshi/tengxun_mianshi/LRU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kaoshi/tengxun_mianshi/LRU.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testdemo/duoxiancheng/jiaotiJiOU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testdemo/duoxiancheng/jiaotiJiOU.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testdemo/duoxiancheng/jiaotiNThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testdemo/duoxiancheng/jiaotiNThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zzz_dachang_mianshiti/bytedance/String_subStraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zzz_dachang_mianshiti/bytedance/String_subStraction.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -289,7 +279,7 @@
       <workItem from="1596869152104" duration="4920000" />
       <workItem from="1599355728903" duration="72657000" />
       <workItem from="1599701319545" duration="1655000" />
-      <workItem from="1599720806914" duration="41495000" />
+      <workItem from="1599720806914" duration="43546000" />
     </task>
     <servers />
   </component>
@@ -364,18 +354,28 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/zzz_dachang_mianshiti/bytedance/String_subStraction.java</url>
-          <line>97</line>
+          <line>103</line>
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/zzz_dachang_mianshiti/bytedance/String_subStraction.java</url>
-          <line>38</line>
-          <option name="timeStamp" value="55" />
+          <line>61</line>
+          <option name="timeStamp" value="58" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/zzz_dachang_mianshiti/bytedance/String_subStraction.java</url>
-          <line>42</line>
-          <option name="timeStamp" value="56" />
+          <line>62</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/zzz_dachang_mianshiti/bytedance/String_subStraction.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/zzz_dachang_mianshiti/bytedance/String_subStraction.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="61" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
