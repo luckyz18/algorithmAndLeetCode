@@ -28,31 +28,6 @@ public class Backtracking {
         }
     }
 
-    //---------------------------------
-    private static void backtrack2(List<List<Integer>> list, List<Integer> tempList, int[] nums, int start) {
-        if (start == nums.length) {
-            list.add(tempList);
-            return;
-        }
-        //这里必须新建一个对象
-        List<Integer> l1 = copyList(tempList);
-        backtrack(list, l1, nums, start + 1);
-
-        List l2 = copyList(tempList);
-        l2.add(nums[start]);
-        backtrack(list, l2, nums, start + 1);
-    }
-
-    public static List<Integer> copyList(List<Integer> old) {
-        List<Integer> newList = new ArrayList<>();
-        for (int tmp : old) {
-            newList.add(tmp);
-        }
-        return newList;
-    }
-    /* -------------------------------**/
-
-
     /**
      * 子集  求一个数组的子序列
      * contains duplicate
@@ -103,7 +78,7 @@ public class Backtracking {
     }
 
     public static void main(String[] args) {
-        List<List<Integer>> k = permute(new int[]{1,2,3});
+        List<List<Integer>> k = subsets(new int[]{1,2,3});
         System.out.println();
     }
 
@@ -158,7 +133,10 @@ public class Backtracking {
         chs[j] = tmp;
     }
 
-    //去重
+    /**
+     * 排列
+     * 有重复
+     */
     public static void printAllPermutations2(String str) {
         char[] chs = str.toCharArray();
         process2(chs, 0);
@@ -181,6 +159,7 @@ public class Backtracking {
     //----------------------------------------
 
     /**
+     * 组合
      * 一个数组中元素的的组合等于 某值
      * （可不可以用重复的元素的区别）
      */

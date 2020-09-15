@@ -1,8 +1,6 @@
 package jianzhi_offer;
 
 
-import sun.security.util.Length;
-
 /**
  * 数组中重复的数字
  */
@@ -38,12 +36,11 @@ public class code_03 {
         int end = length - 1;
         while (end >= start) {
             int mid = ((end - start) >> 1) + start;
-            int count = countInRange(numbers, length, start, mid);
+            int count = countInRange(numbers, start, mid);
             if (start == end) {
                 if (count > 1) {
                     return start;
-                }
-                else {
+                } else {
                     break;
                 }
             }
@@ -56,7 +53,7 @@ public class code_03 {
         return -1;
     }
 
-    private static int countInRange(int[] numbers, int length, int start, int mid) {
+    private static int countInRange(int[] numbers, int start, int mid) {
         if (numbers == null || numbers.length == 0) {
             return 0;
         }
@@ -70,8 +67,7 @@ public class code_03 {
     }
 
     public static void main(String[] args) {
-        int i = duplicate2(new int[]{1,2,3,4}, 4);
-        System.out.println(i);
+
     }
 
 }

@@ -34,7 +34,7 @@ public class code_40 {
             }
         }
         while (!priorityQueue.isEmpty()) {
-            list.add((Integer) priorityQueue.poll());
+            list.add(priorityQueue.poll());
         }
         Collections.sort(list);
         return list;
@@ -57,7 +57,7 @@ public class code_40 {
     }
 
     private static int findMinK(int[] input, int k) {
-        int l  =0;
+        int l =0;
         int r = input.length-1;
         int index =0;
         while (l < r ){  //这里 有等于号  如果取所有的数组长度（8） index的值才可以是（7）
@@ -89,8 +89,8 @@ public class code_40 {
 
     }
 
-    //参考下面这种也行
-    /*int partition(int* input, int low, int high)
+    //参考下面这种也行 快排简单的
+   /* int partition(int* input, int low, int high)
     {
         int tmp = input[low]; // 取一个基准元素
         while (low < high) {

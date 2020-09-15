@@ -30,8 +30,9 @@ public class code_07 {
     }
 
     private static TreeNode buildTree(int[] pre, int preStart, int preEnd, int inStart, Map<Integer, Integer> map) {
-        if (preStart > preEnd)
+        if (preStart > preEnd) {
             return null;
+        }
         TreeNode head = new TreeNode(pre[preStart]);
         Integer rootIndex = map.get(pre[preStart]);
         int leftLen = rootIndex - inStart;

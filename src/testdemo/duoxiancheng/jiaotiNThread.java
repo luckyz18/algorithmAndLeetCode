@@ -4,6 +4,8 @@ import java.util.concurrent.Semaphore;
 
 /**
  * N 个线程循环打印 0
+ * 信号量
+ * 等待前一个线程的信号量
  */
 public class jiaotiNThread {
 
@@ -15,7 +17,8 @@ public class jiaotiNThread {
         for (int i = 0; i < N; i++) {
             syncObjects[i] = new Semaphore(1);
             if (i != N-1){
-                syncObjects[i].acquire();
+                // 0 线程等待 N-1信号量，让0线程第一个执行
+                syncObjects[i].acquire();  // -1 => 0
             }
         }
         for (int i = 0; i < N; i++) {

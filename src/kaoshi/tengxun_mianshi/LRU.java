@@ -47,7 +47,7 @@ public class LRU<K, V> {
         Node removeNode = this.nodeList.removeHead();
         K removeKey = this.nodeKeyMap.get(removeNode);
         this.keyNodeMap.remove(removeKey);
-        this.keyNodeMap.remove(removeNode);
+        this.nodeKeyMap.remove(removeNode);
     }
 
 }

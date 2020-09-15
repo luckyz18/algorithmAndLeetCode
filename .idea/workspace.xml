@@ -3,18 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="eebde280-1e84-45b9-9a09-cbfb9f476cd8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/Backtracking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/Backtracking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_07.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kaoshi/bianlifeng/Main1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kaoshi/bianlifeng/Main2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kaoshi/bianlifeng/Main3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kaoshi/bianlifeng/Shuixianhua.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shiyanshi/demo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shiyanshi/demo3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tengxun_mianshi/DoubleNodeList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tengxun_mianshi/LRU.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tengxun_mianshi/MergeKSortedArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tengxun_mianshi/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_18_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_18_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_34.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_35.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_40.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_40.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kaoshi/tengxun_mianshi/LRU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kaoshi/tengxun_mianshi/LRU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testdemo/duoxiancheng/jiaotiJiOU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testdemo/duoxiancheng/jiaotiJiOU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testdemo/duoxiancheng/jiaotiNThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testdemo/duoxiancheng/jiaotiNThread.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -91,13 +90,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.code_17">
+  <component name="RunManager" selected="Application.String_subStraction">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mianshi.qlbaidu.Main" />
+      <module name="NKProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mianshi.qlbaidu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kaoshi.mianshi.pdd.Main1" />
+      <option name="MAIN_CLASS_NAME" value="mianshi.yuanfudao.Main1" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kaoshi.mianshi.pdd.*" />
+          <option name="PATTERN" value="mianshi.yuanfudao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kaoshi.mianshi.pdd.Main2" />
+    <configuration name="StringLeftRotate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zzz_dachang_mianshiti.bytedance.StringLeftRotate" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kaoshi.mianshi.pdd.*" />
+          <option name="PATTERN" value="zzz_dachang_mianshiti.bytedance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kaoshi.mianshi.ali.Main6" />
+    <configuration name="String_add" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zzz_dachang_mianshiti.bytedance.String_add" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kaoshi.mianshi.ali.*" />
+          <option name="PATTERN" value="zzz_dachang_mianshiti.bytedance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,25 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_17" />
+    <configuration name="String_subStraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zzz_dachang_mianshiti.bytedance.String_subStraction" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jianzhi_offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kaoshi.mianshi.ali.test" />
-      <module name="NKProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="kaoshi.mianshi.ali.*" />
+          <option name="PATTERN" value="zzz_dachang_mianshiti.bytedance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,19 +157,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main6" />
-      <item itemvalue="Application.test" />
       <item itemvalue="Application.Main1" />
-      <item itemvalue="Application.Main2" />
-      <item itemvalue="Application.code_17" />
+      <item itemvalue="Application.StringLeftRotate" />
+      <item itemvalue="Application.String_add" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.String_subStraction" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.code_17" />
-        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.String_subStraction" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.String_add" />
+        <item itemvalue="Application.StringLeftRotate" />
         <item itemvalue="Application.Main1" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.Main6" />
       </list>
     </recent_temporary>
   </component>
@@ -279,6 +278,18 @@
       <workItem from="1586651437360" duration="6564000" />
       <workItem from="1586747582819" duration="2505000" />
       <workItem from="1586825325461" duration="2845000" />
+      <workItem from="1586909701722" duration="19174000" />
+      <workItem from="1586997784659" duration="8041000" />
+      <workItem from="1587095896376" duration="3206000" />
+      <workItem from="1587182661671" duration="6626000" />
+      <workItem from="1587372291366" duration="3239000" />
+      <workItem from="1587790797838" duration="7129000" />
+      <workItem from="1587901817478" duration="6455000" />
+      <workItem from="1587997981807" duration="715000" />
+      <workItem from="1596869152104" duration="4920000" />
+      <workItem from="1599355728903" duration="72657000" />
+      <workItem from="1599701319545" duration="1655000" />
+      <workItem from="1599720806914" duration="41495000" />
     </task>
     <servers />
   </component>
@@ -310,6 +321,61 @@
           <url>file://$PROJECT_DIR$/src/kaoshi/baidu/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/zzz_dachang_mianshiti/WXG/Main.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/zzz_dachang_mianshiti/WXG/Main.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/zzz_dachang_mianshiti/WXG/Main.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianzhi_offer/code_17.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianzhi_offer/code_17.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianzhi_offer/code_17.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianzhi_offer/code_17.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/zzz_dachang_mianshiti/bytedance/String_subStraction.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/zzz_dachang_mianshiti/bytedance/String_subStraction.java</url>
+          <line>97</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/zzz_dachang_mianshiti/bytedance/String_subStraction.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/zzz_dachang_mianshiti/bytedance/String_subStraction.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="56" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

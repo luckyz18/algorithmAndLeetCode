@@ -37,7 +37,6 @@ public class code_35 {
     }
 
     //不利用 O(N)的哈希表  直接在原始链表上添加一个节点  然后再拆分开来
-    //不知名的小人物吧
     public static RandomListNode Clone2(RandomListNode pHead)  {
         if(pHead == null){
             return null;

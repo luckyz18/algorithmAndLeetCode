@@ -23,7 +23,7 @@ public class jiaotiJiOU {
         }
         public static void main(String[] args) throws InterruptedException {
             new Thread(new SoulutionTask(), "偶数").start();
-            Thread.sleep(1000); //控制
+            Thread.sleep(1000); //让偶线程先执行
             new Thread(new SoulutionTask(), "奇数").start();
         }
         //有一个问题 第一个打印的可能是奇/偶
