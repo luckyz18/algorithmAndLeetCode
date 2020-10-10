@@ -1,9 +1,7 @@
 package kaoshi.baidu;
 
-import java.math.BigDecimal;
 import java.math.BigInteger;
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.Scanner;
 
 public class Main {

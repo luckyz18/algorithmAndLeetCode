@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="eebde280-1e84-45b9-9a09-cbfb9f476cd8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/Backtracking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/Backtracking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_41.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_41.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zzz_dachang_mianshiti/bytedance/StringLeftRotate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zzz_dachang_mianshiti/bytedance/StringLeftRotate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zzz_dachang_mianshiti/bytedance/String_add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zzz_dachang_mianshiti/bytedance/String_add.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zzz_dachang_mianshiti/bytedance/String_jian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zzz_dachang_mianshiti/bytedance/String_jian.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/zzz_dachang_mianshiti/bytedance/String_subStraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zzz_dachang_mianshiti/bytedance/String_subStraction.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -80,35 +85,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.String_subStraction">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mianshi.qlbaidu.Main" />
-      <module name="NKProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mianshi.qlbaidu.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mianshi.yuanfudao.Main1" />
-      <module name="NKProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mianshi.yuanfudao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringLeftRotate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zzz_dachang_mianshiti.bytedance.StringLeftRotate" />
+  <component name="RunManager" selected="Application.code_41">
+    <configuration name="LIS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zzz_dachang_mianshiti.bytedance.LIS" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
@@ -120,8 +99,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String_add" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zzz_dachang_mianshiti.bytedance.String_add" />
+    <configuration name="MySqrt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zzz_dachang_mianshiti.douyin.MySqrt" />
+      <module name="NKProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zzz_dachang_mianshiti.douyin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="String_jian" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zzz_dachang_mianshiti.bytedance.String_jian" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
@@ -133,12 +125,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String_subStraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zzz_dachang_mianshiti.bytedance.String_subStraction" />
+    <configuration name="code_41" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_41" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zzz_dachang_mianshiti.bytedance.*" />
+          <option name="PATTERN" value="jianzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jiajianchengchu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zzz_dachang_mianshiti.douyin.jiajianchengchu" />
+      <module name="NKProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zzz_dachang_mianshiti.douyin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,19 +152,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main1" />
-      <item itemvalue="Application.StringLeftRotate" />
-      <item itemvalue="Application.String_add" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.String_subStraction" />
+      <item itemvalue="Application.LIS" />
+      <item itemvalue="Application.MySqrt" />
+      <item itemvalue="Application.String_jian" />
+      <item itemvalue="Application.jiajianchengchu" />
+      <item itemvalue="Application.code_41" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.String_subStraction" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.String_add" />
-        <item itemvalue="Application.StringLeftRotate" />
-        <item itemvalue="Application.Main1" />
+        <item itemvalue="Application.code_41" />
+        <item itemvalue="Application.jiajianchengchu" />
+        <item itemvalue="Application.String_jian" />
+        <item itemvalue="Application.MySqrt" />
+        <item itemvalue="Application.LIS" />
       </list>
     </recent_temporary>
   </component>
@@ -279,7 +284,12 @@
       <workItem from="1596869152104" duration="4920000" />
       <workItem from="1599355728903" duration="72657000" />
       <workItem from="1599701319545" duration="1655000" />
-      <workItem from="1599720806914" duration="43546000" />
+      <workItem from="1599720806914" duration="48164000" />
+      <workItem from="1600411984475" duration="218000" />
+      <workItem from="1600484078008" duration="4908000" />
+      <workItem from="1601377209046" duration="607000" />
+      <workItem from="1601991622064" duration="20465000" />
+      <workItem from="1602205873202" duration="11855000" />
     </task>
     <servers />
   </component>
@@ -346,36 +356,6 @@
           <url>file://$PROJECT_DIR$/src/jianzhi_offer/code_17.java</url>
           <line>58</line>
           <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/zzz_dachang_mianshiti/bytedance/String_subStraction.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="52" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/zzz_dachang_mianshiti/bytedance/String_subStraction.java</url>
-          <line>103</line>
-          <option name="timeStamp" value="53" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/zzz_dachang_mianshiti/bytedance/String_subStraction.java</url>
-          <line>61</line>
-          <option name="timeStamp" value="58" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/zzz_dachang_mianshiti/bytedance/String_subStraction.java</url>
-          <line>62</line>
-          <option name="timeStamp" value="59" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/zzz_dachang_mianshiti/bytedance/String_subStraction.java</url>
-          <line>68</line>
-          <option name="timeStamp" value="60" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/zzz_dachang_mianshiti/bytedance/String_subStraction.java</url>
-          <line>67</line>
-          <option name="timeStamp" value="61" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

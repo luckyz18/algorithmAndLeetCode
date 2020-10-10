@@ -1,0 +1,40 @@
+package a3_jianzhi_offer;
+
+/**
+ * 把数字翻译成字符串
+ */
+public class code_46 {
+
+    /**
+     * dp[i]表示有从 0 位置到 i-1,第 i个字符一共有多少种
+     * 1 翻译成“a”，2 翻译成“b： 翻译中 0 没有对应的翻译
+     * @param s
+     * @return
+     */
+    public static int numDecodings(String s) {
+        if (s == null || s.length() == 0)
+            return 0;
+        int n = s.length();
+        int[] dp = new int[n + 1];
+        dp[0] = 1;
+        dp[1] = s.charAt(0) == '0' ? 0 : 1;
+        for (int i = 2; i <= n; i++) {
+            int one = Integer.valueOf(s.substring(i - 1, i));
+            if (one != 0)
+                dp[i] += dp[i - 1];
+            if (s.charAt(i - 2) == '0')
+                continue;
+            int two = Integer.valueOf(s.substring(i - 2, i));
+            if (two <= 26)
+                dp[i] += dp[i - 2];
+        }
+        return dp[n];
+    }
+
+    //如果是 0-》A 1-》B... 想法类似，那就把 if (one != 0) 去掉就好了
+
+
+    public static void main(String[] args) {
+        numDecodings("12258");
+    }
+}

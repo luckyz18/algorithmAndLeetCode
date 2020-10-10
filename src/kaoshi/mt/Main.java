@@ -1,7 +1,5 @@
 package kaoshi.mt;
 
-import javax.xml.transform.Source;
-import java.math.BigInteger;
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Scanner;
