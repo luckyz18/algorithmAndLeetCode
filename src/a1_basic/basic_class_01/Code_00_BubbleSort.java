@@ -16,7 +16,7 @@ public class Code_00_BubbleSort {
 					flag = true;
 				}
 			}
-			if (!flag) {
+			if ( !flag) {
 				break;
 			}
 		}
