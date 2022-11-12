@@ -1,4 +1,4 @@
-package book_2;
+package book_2.stack;
 
 /**
  * 单调栈包含重复元素

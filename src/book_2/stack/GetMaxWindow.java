@@ -1,4 +1,4 @@
-package book_2;
+package book_2.stack;
 
 import java.util.LinkedList;
 

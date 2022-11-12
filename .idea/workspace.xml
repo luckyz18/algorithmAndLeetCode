@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="eebde280-1e84-45b9-9a09-cbfb9f476cd8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/book_2/GetMaxWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/book_2/stack/GetMaxWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/book_2/GetNearLessNoRepeat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/book_2/stack/GetNearLessNoRepeat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/book_2/GetNearLessWithRepeat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/book_2/stack/GetNearLessWithRepeat.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +76,7 @@
       <select />
     </treeState>
   </component>
-  <component name="RunManager" selected="Application.GetNearLessNoRepeat">
+  <component name="RunManager" selected="Application.RemoveLastKNode">
     <configuration name="GetMaxWIndow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="a2_zuo_book.capter01.GetMaxWIndow" />
       <module name="NKProgram" />
@@ -88,11 +91,11 @@
       </method>
     </configuration>
     <configuration name="GetMaxWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="book_2.GetMaxWindow" />
+      <option name="MAIN_CLASS_NAME" value="book_2.stack.GetMaxWindow" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="book_2.*" />
+          <option name="PATTERN" value="book_2.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,11 +104,11 @@
       </method>
     </configuration>
     <configuration name="GetNearLessNoRepeat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="book_2.GetNearLessNoRepeat" />
+      <option name="MAIN_CLASS_NAME" value="book_2.stack.GetNearLessNoRepeat" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="book_2.*" />
+          <option name="PATTERN" value="book_2.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code_41" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.code_41" />
+    <configuration name="PrintCommonPart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="book_2.linklist.PrintCommonPart" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jianzhi_offer.*" />
+          <option name="PATTERN" value="book_2.linklist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jiajianchengchu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zzz_dachang_mianshiti.douyin.jiajianchengchu" />
+    <configuration name="RemoveLastKNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="book_2.linklist.RemoveLastKNode" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zzz_dachang_mianshiti.douyin.*" />
+          <option name="PATTERN" value="book_2.linklist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,19 +156,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.jiajianchengchu" />
-      <item itemvalue="Application.code_41" />
       <item itemvalue="Application.GetMaxWindow" />
       <item itemvalue="Application.GetMaxWIndow" />
       <item itemvalue="Application.GetNearLessNoRepeat" />
+      <item itemvalue="Application.PrintCommonPart" />
+      <item itemvalue="Application.RemoveLastKNode" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveLastKNode" />
+        <item itemvalue="Application.PrintCommonPart" />
         <item itemvalue="Application.GetNearLessNoRepeat" />
         <item itemvalue="Application.GetMaxWindow" />
         <item itemvalue="Application.GetMaxWIndow" />
-        <item itemvalue="Application.code_41" />
-        <item itemvalue="Application.jiajianchengchu" />
       </list>
     </recent_temporary>
   </component>
@@ -293,7 +296,7 @@
       <workItem from="1601991622064" duration="20465000" />
       <workItem from="1602205873202" duration="11855000" />
       <workItem from="1668060937306" duration="4201000" />
-      <workItem from="1668166746053" duration="8351000" />
+      <workItem from="1668166746053" duration="12035000" />
     </task>
     <servers />
   </component>
@@ -361,7 +364,7 @@
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/book_2/GetMaxWindow.java</url>
+          <url>file://$PROJECT_DIR$/src/book_2/stack/GetMaxWindow.java</url>
           <line>37</line>
           <option name="timeStamp" value="32" />
         </line-breakpoint>
