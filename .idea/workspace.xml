@@ -3,14 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="eebde280-1e84-45b9-9a09-cbfb9f476cd8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/Backtracking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/Backtracking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/code_41.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/code_41.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zzz_dachang_mianshiti/bytedance/StringLeftRotate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zzz_dachang_mianshiti/bytedance/StringLeftRotate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zzz_dachang_mianshiti/bytedance/String_add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zzz_dachang_mianshiti/bytedance/String_add.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zzz_dachang_mianshiti/bytedance/String_jian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zzz_dachang_mianshiti/bytedance/String_jian.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zzz_dachang_mianshiti/bytedance/String_subStraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zzz_dachang_mianshiti/bytedance/String_subStraction.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,10 +43,16 @@
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LeetCode/leetcode" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/lc" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -62,6 +61,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/lc" />
       <recent name="E:\Program\NKProgram\src\kaoshi" />
       <recent name="E:\Program\NKProgram\src\basic" />
       <recent name="E:\Program\NKProgram\src" />
@@ -73,25 +73,13 @@
       <select />
     </treeState>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.code_41">
-    <configuration name="LIS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zzz_dachang_mianshiti.bytedance.LIS" />
+  <component name="RunManager" selected="Application.GetNearLessNoRepeat">
+    <configuration name="GetMaxWIndow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a2_zuo_book.capter01.GetMaxWIndow" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zzz_dachang_mianshiti.bytedance.*" />
+          <option name="PATTERN" value="a2_zuo_book.capter01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MySqrt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zzz_dachang_mianshiti.douyin.MySqrt" />
+    <configuration name="GetMaxWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="book_2.GetMaxWindow" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zzz_dachang_mianshiti.douyin.*" />
+          <option name="PATTERN" value="book_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String_jian" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zzz_dachang_mianshiti.bytedance.String_jian" />
+    <configuration name="GetNearLessNoRepeat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="book_2.GetNearLessNoRepeat" />
       <module name="NKProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zzz_dachang_mianshiti.bytedance.*" />
+          <option name="PATTERN" value="book_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,23 +139,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.LIS" />
-      <item itemvalue="Application.MySqrt" />
-      <item itemvalue="Application.String_jian" />
       <item itemvalue="Application.jiajianchengchu" />
       <item itemvalue="Application.code_41" />
+      <item itemvalue="Application.GetMaxWindow" />
+      <item itemvalue="Application.GetMaxWIndow" />
+      <item itemvalue="Application.GetNearLessNoRepeat" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GetNearLessNoRepeat" />
+        <item itemvalue="Application.GetMaxWindow" />
+        <item itemvalue="Application.GetMaxWIndow" />
         <item itemvalue="Application.code_41" />
         <item itemvalue="Application.jiajianchengchu" />
-        <item itemvalue="Application.String_jian" />
-        <item itemvalue="Application.MySqrt" />
-        <item itemvalue="Application.LIS" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -290,24 +292,25 @@
       <workItem from="1601377209046" duration="607000" />
       <workItem from="1601991622064" duration="20465000" />
       <workItem from="1602205873202" duration="11855000" />
+      <workItem from="1668060937306" duration="4201000" />
+      <workItem from="1668166746053" duration="8351000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -356,6 +359,11 @@
           <url>file://$PROJECT_DIR$/src/jianzhi_offer/code_17.java</url>
           <line>58</line>
           <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/book_2/GetMaxWindow.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

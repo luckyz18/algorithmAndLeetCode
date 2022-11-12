@@ -51,7 +51,7 @@ public class GetVisibleNum {
         while (stack.size() > 2) {
             Record pop = stack.pop();
             int popTime = pop.time;
-            res += 2 * popTime + getInternelTime(popTime);
+            res += 2 * popTime +  (popTime);
         }
         if (stack.size() == 2) {
             Record pop = stack.pop();
