@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="eebde280-1e84-45b9-9a09-cbfb9f476cd8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/book_2/GetMaxWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/book_2/stack/GetMaxWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/book_2/GetNearLessNoRepeat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/book_2/stack/GetNearLessNoRepeat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/book_2/GetNearLessWithRepeat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/book_2/stack/GetNearLessWithRepeat.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +39,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1TDor8Ri0sU9uT1b6jNGandVAwI" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -76,20 +81,7 @@
       <select />
     </treeState>
   </component>
-  <component name="RunManager" selected="Application.RemoveLastKNode">
-    <configuration name="GetMaxWIndow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a2_zuo_book.capter01.GetMaxWIndow" />
-      <module name="NKProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="a2_zuo_book.capter01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ReversePart">
     <configuration name="GetMaxWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="book_2.stack.GetMaxWindow" />
       <module name="NKProgram" />
@@ -142,6 +134,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReversePart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="book_2.linklist.ReversePart" />
+      <module name="NKProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="book_2.linklist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -157,18 +162,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.GetMaxWindow" />
-      <item itemvalue="Application.GetMaxWIndow" />
       <item itemvalue="Application.GetNearLessNoRepeat" />
       <item itemvalue="Application.PrintCommonPart" />
       <item itemvalue="Application.RemoveLastKNode" />
+      <item itemvalue="Application.ReversePart" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReversePart" />
         <item itemvalue="Application.RemoveLastKNode" />
         <item itemvalue="Application.PrintCommonPart" />
         <item itemvalue="Application.GetNearLessNoRepeat" />
         <item itemvalue="Application.GetMaxWindow" />
-        <item itemvalue="Application.GetMaxWIndow" />
       </list>
     </recent_temporary>
   </component>
@@ -296,7 +301,7 @@
       <workItem from="1601991622064" duration="20465000" />
       <workItem from="1602205873202" duration="11855000" />
       <workItem from="1668060937306" duration="4201000" />
-      <workItem from="1668166746053" duration="12035000" />
+      <workItem from="1668166746053" duration="16242000" />
     </task>
     <servers />
   </component>
